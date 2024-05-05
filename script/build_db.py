@@ -37,6 +37,8 @@ class Tag(BaseEnum):
 
 class Furigana(BaseEnum):
     NOT_SUPPORTED = "not supported"
+    KANA_MODE = "kana mode"
+    MOSTLY_NO = "mostly no"
     PARTIAL = "partial"
     FULL = "full"
     UNKNOWN = "unknown"

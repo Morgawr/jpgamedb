@@ -6,5 +6,13 @@
         "furigana": "full",
         "japanese_game": "yes",
         "notes": "\nTBD\n"
+    },
+    {
+        "title": "Pokémon Sword and Shield",
+        "genre": "jrpg",
+        "difficulty": "easy",
+        "furigana": "kana mode",
+        "japanese_game": "yes",
+        "notes": ""
     }
 ]

@@ -1,0 +1,7 @@
+Title Pokémon Sword and Shield
+Genre JRPG
+Difficulty Easy
+Furigana Kana Mode
+Japanese_Game Yes
+
+## Notes
