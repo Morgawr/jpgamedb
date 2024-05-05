@@ -7,6 +7,15 @@ const options = {
   keys: ["title"],
 }
 
+const TABLE_ENTRIES = {
+  "title": "Title",
+  "difficulty": "Difficulty",
+  "genre": "Genre",
+  "furigana": "Furigana",
+  "voiced": "Voiced Lines",
+  "japanese_game": "Japanese Developer?",
+}
+
 async function fetchData(){
   let response = await fetch('db/gamelist.json')
   let data = await response.json();
@@ -18,41 +27,39 @@ let json_data = await fetchData();
 const fuse = new Fuse(json_data, options);
 
 function show_entry(entry) {
-  let data = "<tr>";
-  data += "<td>" + entry['title'] + "</td>";
-  data += "<td>" + entry['difficulty'] + "</td>";
-  data += "<td>" + entry['genre'] + "</td>";
-  data += "<td>" + entry['furigana'] + "</td>";
-  data += "<td>" + entry['voiced'] + "</td>";
-  data += "<td>" + entry['japanese_game'] + "</td>";
-  data += "</tr>"
+  let data = document.createElement("tr");
+  Object.entries(TABLE_ENTRIES).forEach(([k,v]) => {
+    let column = document.createElement("td");
+    column.appendChild(document.createTextNode(entry[k]));
+    data.appendChild(column);
+  });
   return data
 }
 
 function refresh_list(value) {
-  outb.innerHTML = "";
-
-  let output = "<table>";
-  let table_titles = "<tr>";
-  table_titles += "<th>Title</th>";
-  table_titles += "<th>Difficulty</th>";
-  table_titles += "<th>Genre</th>";
-  table_titles += "<th>Furigana</th>";
-  table_titles += "<th>Voiced Lines</th>";
-  table_titles += "<th>Japanese Developer?</th>";
-  table_titles += "</tr>";
-  output += table_titles;
+  let content_table = document.createElement("table");
+  let titles = document.createElement("tr");
+  Object.entries(TABLE_ENTRIES).forEach(([k, v]) => {
+    let column = document.createElement("th");
+    column.appendChild(document.createTextNode(v));
+    titles.appendChild(column);
+  });
+  content_table.appendChild(titles);
   if (!value) {
     json_data.forEach(function(result, index) {
-      output += show_entry(result)
+      content_table.appendChild(show_entry(result));
     })
   } else {
-    let data = fuse.search(value);
+    // Keep entries sorted non-case sensitive
+    let data = fuse.search(value).sort(function(a, b){
+      return a.item['title'].toLowerCase().localeCompare(
+        b.item['title'].toLowerCase())
+    });
     data.forEach(function(result, index) {
-      output += show_entry(result.item)
+      content_table.appendChild(show_entry(result.item));
     })
   }
-  outb.innerHTML = output + "</table>";
+  outb.replaceChildren(content_table);
 }
 
 document.getElementById('textbox').addEventListener('input', function() {

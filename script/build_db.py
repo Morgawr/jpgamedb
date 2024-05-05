@@ -150,7 +150,10 @@ def main() -> int:
         return 1
     games = build_data_map(args.input)
     with open(os.path.join(args.output, "gamelist.json"), "w") as f:
-        f.write(json.dumps(list(games.values()), indent=4, ensure_ascii=False))
+        sorted_list = sorted(
+                games.values(),
+                key=lambda x: x[Tag.TITLE.value].casefold())
+        f.write(json.dumps(sorted_list, indent=4, ensure_ascii=False))
     return 0
 
 if __name__ == '__main__':
