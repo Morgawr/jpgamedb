@@ -1,0 +1,8 @@
+Title Paper Mario: The Origami King
+Genre JRPG
+Difficulty Easy
+Furigana Full
+Japanese_Game Yes
+
+## Notes
+TBD

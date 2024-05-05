@@ -1,0 +1,7 @@
+Title
+Genre
+Difficulty
+Furigana Partial
+Japanese_Game Yes
+
+## Notes
