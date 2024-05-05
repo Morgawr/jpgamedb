@@ -3,5 +3,6 @@ Genre
 Difficulty
 Furigana Partial
 Japanese_Game Yes
+Voiced No
 
 ## Notes

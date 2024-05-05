@@ -23,6 +23,7 @@ function show_entry(entry) {
   data += "<td>" + entry['difficulty'] + "</td>";
   data += "<td>" + entry['genre'] + "</td>";
   data += "<td>" + entry['furigana'] + "</td>";
+  data += "<td>" + entry['voiced'] + "</td>";
   data += "<td>" + entry['japanese_game'] + "</td>";
   data += "</tr>"
   return data
@@ -37,6 +38,7 @@ function refresh_list(value) {
   table_titles += "<th>Difficulty</th>";
   table_titles += "<th>Genre</th>";
   table_titles += "<th>Furigana</th>";
+  table_titles += "<th>Voiced Lines</th>";
   table_titles += "<th>Japanese Developer?</th>";
   table_titles += "</tr>";
   output += table_titles;

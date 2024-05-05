@@ -3,6 +3,7 @@ Genre JRPG
 Difficulty Easy
 Furigana Full
 Japanese_Game Yes
+Voiced No
 
 ## Notes
 TBD

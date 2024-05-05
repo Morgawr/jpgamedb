@@ -5,6 +5,7 @@
         "difficulty": "easy",
         "furigana": "full",
         "japanese_game": "yes",
+        "voiced": "no",
         "notes": "\nTBD\n"
     },
     {
@@ -13,6 +14,7 @@
         "difficulty": "easy",
         "furigana": "kana mode",
         "japanese_game": "yes",
+        "voiced": "no",
         "notes": ""
     }
 ]

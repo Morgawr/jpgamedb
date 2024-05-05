@@ -34,6 +34,7 @@ class Tag(BaseEnum):
     DIFFICULTY = "difficulty"
     FURIGANA = "furigana"
     JAPANESE_GAME = "japanese_game"
+    VOICED = "voiced"
 
 class Furigana(BaseEnum):
     NOT_SUPPORTED = "not supported"
@@ -41,6 +42,14 @@ class Furigana(BaseEnum):
     MOSTLY_NO = "mostly no"
     PARTIAL = "partial"
     FULL = "full"
+    UNKNOWN = "unknown"
+
+class Voiced(BaseEnum):
+    NO = "no"
+    FULL = "full"
+    PARTIAL = "partial"
+    MAIN_QUEST = "main quest"
+    MAIN_AND_SIDE = "main and side quest"
     UNKNOWN = "unknown"
 
 # TODO: This isn't great but having a single main genre/gameplay type is a good
@@ -65,6 +74,7 @@ ENUM_MAPPING = {
         Tag.DIFFICULTY: Difficulty,
         Tag.FURIGANA: Furigana,
         Tag.JAPANESE_GAME: IsJapanese,
+        Tag.VOICED: Voiced,
 }
 
 def verify_input_is_valid(input: str) -> bool:

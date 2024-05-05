@@ -3,5 +3,6 @@ Genre JRPG
 Difficulty Easy
 Furigana Kana Mode
 Japanese_Game Yes
+Voiced No
 
 ## Notes
