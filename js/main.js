@@ -1,12 +1,5 @@
 var outb = document.getElementById('output');
 
-const options = {
-  threshold: 0,
-  ignoreLocation: true,
-  findAllMatches: true,
-  keys: ["title"],
-}
-
 const TABLE_ENTRIES = {
   "title": "Title",
   "difficulty": "Difficulty",
@@ -14,6 +7,21 @@ const TABLE_ENTRIES = {
   "furigana": "Furigana",
   "voiced": "Voiced Lines",
   "japanese_game": "Japanese Developer?",
+}
+
+const FILTERS = [
+  "difficulty",
+  "genre",
+  "furigana",
+  "voiced",
+]
+
+const options = {
+  threshold: 0,
+  ignoreLocation: true,
+  findAllMatches: true,
+  useExtendedSearch: true,
+  keys: Object.keys(TABLE_ENTRIES).concat("browsable"),
 }
 
 async function fetchData(){
@@ -36,7 +44,7 @@ function show_entry(entry) {
   return data
 }
 
-function refresh_list(value) {
+function refresh_list() {
   let content_table = document.createElement("table");
   let titles = document.createElement("tr");
   Object.entries(TABLE_ENTRIES).forEach(([k, v]) => {
@@ -45,26 +53,47 @@ function refresh_list(value) {
     titles.appendChild(column);
   });
   content_table.appendChild(titles);
-  if (!value) {
-    json_data.forEach(function(result, index) {
-      content_table.appendChild(show_entry(result));
-    })
+
+  let title = document.getElementById('titlebox').value;
+  let search_index = {};
+  let filters = {};
+
+  FILTERS.forEach((value) => {
+    let filter_value = document.getElementById(value + 'box').value;
+    if (filter_value) {
+      filters[value] = filter_value;
+    }
+  });
+
+  if (!title) {
+    filters['browsable'] = 'true';
   } else {
-    // Keep entries sorted non-case sensitive
-    let data = fuse.search(value).sort(function(a, b){
-      return a.item['title'].toLowerCase().localeCompare(
-        b.item['title'].toLowerCase())
-    });
-    data.forEach(function(result, index) {
-      content_table.appendChild(show_entry(result.item));
-    })
+    filters['title'] = title;
   }
+
+  search_index = {
+    $and: Object.entries(filters).map(function([key, value]) {
+      let tmp = {};
+      tmp[key] = value;
+      return tmp;
+    }),
+  }
+
+  // Keep entries sorted non-case sensitive
+  let data = fuse.search(search_index).sort(function(a, b){
+    return a.item['title'].toLowerCase().localeCompare(
+      b.item['title'].toLowerCase())
+  });
+  data.forEach(function(result, index) {
+    content_table.appendChild(show_entry(result.item));
+  })
   outb.replaceChildren(content_table);
 }
 
-document.getElementById('textbox').addEventListener('input', function() {
-  refresh_list(this.value);
+document.getElementById('titlebox').addEventListener('input', refresh_list);
+FILTERS.forEach((value) => {
+  document.getElementById(value + 'box').addEventListener('input', refresh_list);
 })
 
-refresh_list("");
+refresh_list();
 

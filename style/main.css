@@ -1,11 +1,41 @@
-td {
+#output table {
+  width: 100%;
+}
+
+#output td {
   border: 1px solid;
   padding-left: 5px;
   padding-right: 5px;
 }
 
-th {
+#output th {
   border: 1px solid;
   padding-left: 10px;
   padding-right: 10px;
+}
+
+body {
+  background: #4B4453;
+  color: #FF836A;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.main {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  padding-top: 10px;
+}
+
+h1 {
+  color: #B0A8B9;
+}
+
+a {
+  color: #C54E39;
+  font-weight: bold;
+}
+
+.main #input input {
+  width: 70%;
 }

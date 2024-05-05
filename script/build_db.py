@@ -114,6 +114,8 @@ def load_game_entry(input: str) -> Tuple[str, Dict[str, str]]:
         if tag.value not in data:
             data[tag.value] = ENUM_MAPPING[tag]("unknown").value
     data["notes"] = notes
+    # This is a hack to allow us to index any title in the UI
+    data["browsable"] = True
     return (data[Tag.TITLE.value], data)
 
 def build_data_map(input: str) -> Dict[str, Dict[str, str]]:

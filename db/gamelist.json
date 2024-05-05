@@ -6,7 +6,8 @@
         "furigana": "full",
         "japanese_game": "yes",
         "voiced": "no",
-        "notes": "\nTBD\n"
+        "notes": "\nTBD\n",
+        "browsable": true
     },
     {
         "title": "Pokémon Sword and Shield",
@@ -15,6 +16,7 @@
         "furigana": "kana mode",
         "japanese_game": "yes",
         "voiced": "no",
-        "notes": ""
+        "notes": "",
+        "browsable": true
     }
 ]
