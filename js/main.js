@@ -94,8 +94,14 @@ function refresh_list() {
 
   // Keep entries sorted non-case sensitive
   let data = fuse.search(search_index).sort(function(a, b){
-    return a.item['title'].toLowerCase().localeCompare(
-      b.item['title'].toLowerCase())
+    if (a.item['difficulty'] == b.item['difficulty']) {
+      return a.item['title'].toLowerCase().localeCompare(
+        b.item['title'].toLowerCase())
+    }
+    const difficulties = [
+      'very easy', 'easy', 'average', 'hard', 'very hard', 'unknown'];
+    return difficulties.indexOf(a.item['difficulty'])
+      - difficulties.indexOf(b.item['difficulty']);
   });
   data.forEach(function(result, index) {
     content_table.appendChild(show_entry(result.item));

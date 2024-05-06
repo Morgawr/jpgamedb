@@ -4,6 +4,7 @@ Difficulty Easy
 Furigana Full
 Japanese_Game Yes
 Voiced No
+Pausable_Text all
 Image https://images.igdb.com/igdb/image/upload/t_cover_big/co2sai.jpg
 Backloggd https://www.backloggd.com/games/paper-mario-the-origami-king/
 Howlongtobeat https://howlongtobeat.com/game/78187

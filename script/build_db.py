@@ -34,6 +34,12 @@ class Backlog(BaseEnum):
     NO = "no"
     UNKNOWN = "unknown"
 
+class PausableText(BaseEnum):
+    ALL = "all"
+    SOME = "some"
+    NO = "no"
+    UNKNOWN = "unknown"
+
 class Tag(BaseEnum):
     TITLE = "title"
     GENRE = "genre"
@@ -48,6 +54,7 @@ class Tag(BaseEnum):
     HOWLONGTOBEAT = "howlongtobeat"
     VNDB = "vndb"
     BACKLOG = "backlog"
+    PAUSABLE_TEXT = "pausable_text"
 
 class Playtime(BaseEnum):
     VERY_SHORT = "very short"
@@ -100,6 +107,7 @@ ENUM_MAPPING = {
         Tag.VOICED: Voiced,
         Tag.PLAYTIME: Playtime,
         Tag.BACKLOG: Backlog,
+        Tag.PAUSABLE_TEXT: PausableText,
 }
 
 def verify_input_is_valid(input: str) -> bool:

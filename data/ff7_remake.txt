@@ -3,6 +3,7 @@ Genre JRPG
 Difficulty Hard
 Furigana No
 Japanese_Game Yes
+Pausable_Text no
 Voiced Full
 Backlog No
 Image https://images.igdb.com/igdb/image/upload/t_cover_big/co1qxr.jpg

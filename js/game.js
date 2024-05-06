@@ -4,6 +4,7 @@ const TABLE_ENTRIES = [
   "furigana",
   "voiced",
   "japanese_game",
+  "pausable_text",
   "playtime",
   "backlog",
 ]

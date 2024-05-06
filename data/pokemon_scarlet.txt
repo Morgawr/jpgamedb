@@ -4,6 +4,7 @@ Difficulty very easy
 Furigana Full
 Japanese_Game Yes
 Voiced No
+Pausable_Text all
 Backlog No
 Image https://images.igdb.com/igdb/image/upload/t_cover_big/co5sfi.jpg
 Backloggd https://www.backloggd.com/games/pokemon-scarlet/

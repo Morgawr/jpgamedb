@@ -3,6 +3,7 @@ Genre JRPG
 Difficulty easy
 Furigana Partial
 Japanese_Game Yes
+Pausable_Text some
 Voiced No
 Image https://images.igdb.com/igdb/image/upload/t_cover_big/co6l19.jpg
 Backloggd https://www.backloggd.com/games/dragon-quest-x-offline/

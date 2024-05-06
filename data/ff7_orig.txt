@@ -3,6 +3,7 @@ Genre JRPG
 Difficulty Average
 Furigana No
 Japanese_Game Yes
+Pausable_Text All
 Voiced No
 Backlog No
 Image https://images.igdb.com/igdb/image/upload/t_cover_big/co2kx2.jpg
