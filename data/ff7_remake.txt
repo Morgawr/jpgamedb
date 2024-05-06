@@ -1,0 +1,18 @@
+Title Final Fantasy VII Remake
+Genre JRPG
+Difficulty Hard
+Furigana No
+Japanese_Game Yes
+Voiced Full
+Backlog No
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co1qxr.jpg
+Backloggd https://www.backloggd.com/games/final-fantasy-vii-remake/
+JPDB https://jpdb.io/video-game/5506/final-fantasy-7-remake
+Howlongtobeat https://howlongtobeat.com/game/57686
+Playtime long
+
+## Notes
+
+This game is the remake of the original FF7 (the first part at least) with A LOT of extra content and sidequests and dialogues. While I think the original was pretty average in language difficulty, I think the remake series of games can be significantly harder to follow. The dialogue is not pausable, as all converastions are voiced and in real time, and there is no backlog to refer to in case you feel lost.
+
+The language itself (word choice, etc) is not particularly complex after you become familiar with some in-universe words, as is common for most JRPGs. I'd still consider it to be on the hard end of JRPGs due to how "active" and non-pausable it is in nature.

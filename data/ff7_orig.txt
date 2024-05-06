@@ -1,0 +1,21 @@
+Title Final Fantasy VII
+Genre JRPG
+Difficulty Average
+Furigana No
+Japanese_Game Yes
+Voiced No
+Backlog No
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co2kx2.jpg
+Backloggd https://www.backloggd.com/games/final-fantasy-vii/
+Howlongtobeat https://howlongtobeat.com/game/3521
+Playtime long
+
+## Notes
+
+This is THE JRPG. The classic. The one, true, and only Final Fantasy VII. It's such an amazing game.
+
+Language-wise, this game is surprisingly not that complicated. It falls in the category of old(er) JRPGs where due to language/font limitations they didn't use a lot of weird or unknown kanji, however it also does not plaster your face with full kana which is good. If you are average at reading Japanese text and know your fair share of jouyou kanji, I think you will do fine with the vocabulary in this game.
+
+The downside is that since it's an older game, there are no quest markers or UI indicators to aid you in your quest and if you cannot follow the story (or play with a walkthrough), you will likely feel a bit lost. There is also no voice acting and no backlog.
+
+Overall, I was conflicted if I should rate this as "easy" rather than "average" in difficulty, but I chose "average" due to the length. Had it been a shorter and more linear game, I'd have definitely considered it "easy".

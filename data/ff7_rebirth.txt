@@ -1,0 +1,19 @@
+Title Final Fantasy VII Rebirth
+Genre JRPG
+Difficulty Hard
+Furigana No
+Japanese_Game Yes
+Voiced Full
+Backlog No
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co73ju.jpg
+Backloggd https://www.backloggd.com/games/final-fantasy-vii-rebirth/
+Howlongtobeat https://howlongtobeat.com/game/109434
+Playtime very long
+
+## Notes
+
+The game is a sequel to FF7 Remake. The difficulty is mostly the same, however the amount of text and length of the game overall makes it slightly harder than its predecessor in my opinion. The combat system is also a bit more complicated and if you were overwhelmed by the skill system of its predecessor, this one will probably be a bit worse.
+
+Language-wise, it is not particularly hard but for a learner it might feel overwhelming. There is pretty much no furigana that I can remember, and there is no way to pause the text (unless you pause the entire game) or to scroll back to previous text logs as there is no dialogue history. On top of that, you often have dialogue from random NPCs in the various towns that is hard to track if you are the kind of person that pays attention to all those details.
+
+On the good side, everything is fully voiced, including the most minor NPC interactions, which is very good to see. Also, the map is very clear with quest markers and events and makes it very obvious where you need to go, so even if you can't understand what characters are saying, you will always know where to go.
