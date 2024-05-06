@@ -4,11 +4,25 @@ body {
   font-family: 'Noto Sans JP', sans-serif;
 }
 
+.header {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  font-size: 20px;
+  background: #332e38;
+  display: table;
+}
+
+.header > div {
+  display: table-cell;
+}
+
 .main {
   width: 50%;
   margin: auto;
   padding-top: 10px;
 }
+
 
 h1, h2, h3 {
   color: #B0A8B9;
