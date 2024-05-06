@@ -1,5 +1,19 @@
 [
     {
+        "title": "Dragon Quest X Offline",
+        "genre": "jrpg",
+        "difficulty": "easy",
+        "furigana": "partial",
+        "japanese_game": "yes",
+        "voiced": "no",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6l19.jpg",
+        "backloggd": "https://www.backloggd.com/games/dragon-quest-x-offline/",
+        "playtime": "unknown",
+        "backlog": "unknown",
+        "notes": "\n\n\nDragon Quest X Offline (not to be confused with the online version) is a remake of the Dragon Quest X online MMO but meant to be played offline as a single player campaign. The story and world is the same as the MMO version, however the gameplay is slightly different. One thing that differs from the online version is that it also has an option to turn on furigana in every dialogue. This makes it quite interesting for beginners and is very beginner friendly.\n\n\n\nThere are however two downsides that I want to point out:\n\n\n\nThe “full” furigana option does not cover things like quest logs and tutorial windows, so those can be quite hard/tricky to read. Especially if you are lost with a certain quest and don’t know where to go.\n\n\n\nAs is normal Dragon Quest tradition, there’s a lot of puns, and most characters speak with some weird speech quirks and accents which can be quite hard to understand as a non-native speaker.\n\n\n\nFor this reason, while it looks like a child/beginner friendly game, it might not be as easy once you get deeper into it.\n",
+        "browsable": true
+    },
+    {
         "title": "Paper Mario: The Origami King",
         "genre": "jrpg",
         "difficulty": "easy",
@@ -15,6 +29,21 @@
         "browsable": true
     },
     {
+        "title": "Pokémon Scarlet",
+        "genre": "jrpg",
+        "difficulty": "very easy",
+        "furigana": "full",
+        "japanese_game": "yes",
+        "voiced": "no",
+        "backlog": "no",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5sfi.jpg",
+        "backloggd": "https://www.backloggd.com/games/pokemon-scarlet/",
+        "howlongtobeat": "https://howlongtobeat.com/game/104683",
+        "playtime": "unknown",
+        "notes": "\n\n\nSame as Sword/Shield, these pokemon games are also a good entry place for beginners. Unlike Sword/Shield which do not have furigana, these entries have support for a furigana option which might make them even better as an entry point compared to the previously mentioned ones.\n",
+        "browsable": true
+    },
+    {
         "title": "Pokémon Shield",
         "genre": "jrpg",
         "difficulty": "easy",
@@ -26,7 +55,22 @@
         "howlongtobeat": "https://howlongtobeat.com/game/65235",
         "backlog": "no",
         "playtime": "unknown",
-        "notes": "",
+        "notes": "\n\n\nIn general, the Pokemon series is always recommended for beginners. I only played this one in Japanese so I can’t say much about the rest. The only thing I strongly advise against are the very first Pokemon games (on GameBoy). Those do not use any kanji and the kana is super small due to display size limitations, it’s extremely hard for beginners to recognise where words start and end. You will not have a good time.\n\n\n\nThis said, Pokemon Sword/Shield are on the other hand excellent and very easy to follow for the most part. Despite being RPGs, the story is very linear and even if you end up not understanding some plot points, you will almost never be “stuck” on a puzzle or not knowing where to go.\n\n\n\nA big downside however, if you are used to the English version of these games or Pokemon in general, is that a lot of Pokemon name and combat moves are significantly different. So you might feel a bit lost when it comes to Pokemon names (and they are always full of puns you might not understand yet).\n\n\n\nBe sure to play the game with kanji and not in kana only (there’s different options in the settings). You’ll still get a lot of kana, but at least the kanji will help.\n",
+        "browsable": true
+    },
+    {
+        "title": "Snack World: The Dungeon Crawl - Gold",
+        "genre": "dungeon crawler",
+        "difficulty": "easy",
+        "furigana": "full",
+        "japanese_game": "yes",
+        "voiced": "no",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2vxp.jpg",
+        "backloggd": "https://www.backloggd.com/games/snack-world-the-dungeon-crawl-gold/",
+        "howlongtobeat": "https://howlongtobeat.com/game/75319",
+        "playtime": "unknown",
+        "backlog": "unknown",
+        "notes": "\n\n\nI played this game a long time ago. It’s a pretty cute game overall.\n\n\n\nThe grammar is relatively simple and it’s all with furigana so kanji shouldn’t be an issue. There are a lot of puns about food (mostly) with character and enemy names. The mechanics are very simple in general and if you like dungeon crawling light-hearted action RPGs, I think you will enjoy this.\n",
         "browsable": true
     }
 ]

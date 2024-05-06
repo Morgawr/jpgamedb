@@ -1,0 +1,20 @@
+Title Dragon Quest X Offline
+Genre JRPG
+Difficulty easy
+Furigana Partial
+Japanese_Game Yes
+Voiced No
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co6l19.jpg
+Backloggd https://www.backloggd.com/games/dragon-quest-x-offline/
+
+## Notes
+
+Dragon Quest X Offline (not to be confused with the online version) is a remake of the Dragon Quest X online MMO but meant to be played offline as a single player campaign. The story and world is the same as the MMO version, however the gameplay is slightly different. One thing that differs from the online version is that it also has an option to turn on furigana in every dialogue. This makes it quite interesting for beginners and is very beginner friendly.
+
+There are however two downsides that I want to point out:
+
+The “full” furigana option does not cover things like quest logs and tutorial windows, so those can be quite hard/tricky to read. Especially if you are lost with a certain quest and don’t know where to go.
+
+As is normal Dragon Quest tradition, there’s a lot of puns, and most characters speak with some weird speech quirks and accents which can be quite hard to understand as a non-native speaker.
+
+For this reason, while it looks like a child/beginner friendly game, it might not be as easy once you get deeper into it.

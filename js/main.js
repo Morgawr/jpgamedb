@@ -68,13 +68,15 @@ function refresh_list() {
   let title = document.getElementById('titlebox').value;
   let search_index = {};
   let filters = {};
-
+  /*
+  TODO: re-add filters when they are ready
   FILTERS.forEach((value) => {
     let filter_value = document.getElementById(value + 'box').value;
     if (filter_value) {
       filters[value] = filter_value;
     }
   });
+  */
 
   if (!title) {
     filters['browsable'] = 'true';
@@ -102,9 +104,11 @@ function refresh_list() {
 }
 
 document.getElementById('titlebox').addEventListener('input', refresh_list);
+/* TODO: re-add filters when they are ready
 FILTERS.forEach((value) => {
   document.getElementById(value + 'box').addEventListener('input', refresh_list);
 })
+*/
 
 refresh_list();
 

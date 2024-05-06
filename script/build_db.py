@@ -77,6 +77,7 @@ class Voiced(BaseEnum):
 #       start
 class Genre(BaseEnum):
     JRPG = "jrpg"
+    DUNGEON = "dungeon crawler"
     ACTION = "action"
     VISUAL_NOVEL = "visual novel"
     MMORPG = "mmorpg"
