@@ -4,7 +4,13 @@ body {
   font-family: 'Noto Sans JP', sans-serif;
 }
 
-h1 {
+.main {
+  width: 50%;
+  margin: auto;
+  padding-top: 10px;
+}
+
+h1, h2, h3 {
   color: #B0A8B9;
 }
 
