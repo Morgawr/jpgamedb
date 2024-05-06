@@ -5,6 +5,7 @@ const TABLE_ENTRIES = [
   "voiced",
   "japanese_game",
   "playtime",
+  "backlog",
 ]
   //"japanese_game": "Japanese Developer?",
 
@@ -55,6 +56,7 @@ function populate_page() {
   cover.width = '300';
   left.appendChild(cover);
 
+  // TODO: refactor these extra cards
   if (entry['backloggd']) {
     left.appendChild(create_link(entry, 'backloggd', 'Backloggd'));
   }
@@ -65,6 +67,10 @@ function populate_page() {
 
   if (entry['vndb']) {
     left.appendChild(create_link(entry, 'vndb', 'VNDB'));
+  }
+
+  if (entry['jpdb']) {
+    left.appendChild(create_link(entry, 'jpdb', 'JPDB.io'));
   }
 
   TABLE_ENTRIES.forEach((name) => {

@@ -4,9 +4,11 @@ Difficulty
 Furigana Partial
 Japanese_Game Yes
 Voiced No
+Backlog No
 Image
 Backloggd
 Vndb
+Jpdb
 Howlongtobeat
 Playtime Average
 

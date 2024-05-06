@@ -28,6 +28,12 @@ class Difficulty(BaseEnum):
     VERY_HARD = "very hard"
     UNKNOWN = "unknown"
 
+class Backlog(BaseEnum):
+    FULL = "full"
+    PARTIAL = "partial"
+    NO = "no"
+    UNKNOWN = "unknown"
+
 class Tag(BaseEnum):
     TITLE = "title"
     GENRE = "genre"
@@ -37,9 +43,11 @@ class Tag(BaseEnum):
     VOICED = "voiced"
     IMAGE = "image"
     BACKLOGGD = "backloggd"
+    JPDB = "jpdb"
     PLAYTIME = "playtime"
     HOWLONGTOBEAT = "howlongtobeat"
     VNDB = "vndb"
+    BACKLOG = "backlog"
 
 class Playtime(BaseEnum):
     VERY_SHORT = "very short"
@@ -89,6 +97,7 @@ ENUM_MAPPING = {
         Tag.JAPANESE_GAME: IsJapanese,
         Tag.VOICED: Voiced,
         Tag.PLAYTIME: Playtime,
+        Tag.BACKLOG: Backlog,
 }
 
 def verify_input_is_valid(input: str) -> bool:
