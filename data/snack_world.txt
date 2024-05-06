@@ -1,6 +1,6 @@
 Title Snack World: The Dungeon Crawl - Gold
 Genre dungeon crawler
-Difficulty easy
+Difficulty very easy
 Furigana full
 Japanese_Game Yes
 Voiced No
