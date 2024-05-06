@@ -8,7 +8,8 @@
         "voiced": "no",
         "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2sai.jpg",
         "backloggd": "https://www.backloggd.com/games/paper-mario-the-origami-king/",
-        "playtime": "unknown",
+        "howlongtobeat": "https://howlongtobeat.com/game/78187",
+        "playtime": "average",
         "notes": "\n\n\nVery cute game. The gameplay itself is quite straightforward and not that complex (it is a kids game after all). Some of the battles with bosses become tricky later on and there are explanations/notes on how to solve them, so testing your understanding of the language is actually quite useful.\n\n\n\nThe game has full furigana support and is relatively easy to follow. There’s a few instances of weird speech (either archaic or some other speech quirks) but for the most part it shouldn’t be too hard. There are a few word puzzles and trivia with wordplays that might get tricky but, again, it’s a good test of understanding.\n",
         "browsable": true
     },
@@ -21,6 +22,7 @@
         "voiced": "no",
         "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zk1.jpg",
         "backloggd": "https://www.backloggd.com/games/pokemon-shield/",
+        "howlongtobeat": "https://howlongtobeat.com/game/65235",
         "playtime": "unknown",
         "notes": "",
         "browsable": true

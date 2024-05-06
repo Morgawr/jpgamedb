@@ -38,6 +38,8 @@ class Tag(BaseEnum):
     IMAGE = "image"
     BACKLOGGD = "backloggd"
     PLAYTIME = "playtime"
+    HOWLONGTOBEAT = "howlongtobeat"
+    VNDB = "vndb"
 
 class Playtime(BaseEnum):
     VERY_SHORT = "very short"

@@ -6,5 +6,6 @@ Japanese_Game Yes
 Voiced No
 Image https://images.igdb.com/igdb/image/upload/t_cover_big/co1zk1.jpg
 Backloggd https://www.backloggd.com/games/pokemon-shield/
+Howlongtobeat https://howlongtobeat.com/game/65235
 
 ## Notes

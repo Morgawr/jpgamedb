@@ -34,6 +34,14 @@ function get_game_from_query() {
   window.location.replace('index.html');
 }
 
+function create_link(entry, tag, name) {
+  let link = document.createElement('p');
+  link.innerHTML += '<a href="'
+    + entry[tag]
+    + '">' + name + '</a>';
+  return link;
+}
+
 function populate_page() {
   const entry = get_game_from_query();
   document.getElementById('title').innerHTML = entry['title'];
@@ -46,18 +54,29 @@ function populate_page() {
   }
   cover.width = '300';
   left.appendChild(cover);
+
   if (entry['backloggd']) {
-    let backloggd = document.createElement('p');
-    backloggd.innerHTML += '<a href="'
-      + entry['backloggd']
-      + '">Backloggd</a>';
-    left.appendChild(backloggd);
+    left.appendChild(create_link(entry, 'backloggd', 'Backloggd'));
+  }
+
+  if (entry['howlongtobeat']) {
+    left.appendChild(create_link(entry, 'howlongtobeat', 'Howlongtobeat'));
+  }
+
+  if (entry['vndb']) {
+    left.appendChild(create_link(entry, 'vndb', 'VNDB'));
   }
 
   TABLE_ENTRIES.forEach((name) => {
-    document.getElementById(name + 'td').appendChild(
-      document.createTextNode(entry[name])
-    );
+    if (name == 'playtime' && entry['howlongtobeat']) {
+      document.getElementById(name + 'td').appendChild(
+        create_link(entry, 'howlongtobeat', entry[name])
+      );
+    } else {
+      document.getElementById(name + 'td').appendChild(
+        document.createTextNode(entry[name])
+      );
+    }
   });
 
   if (entry['notes']) {

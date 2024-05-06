@@ -6,6 +6,8 @@ Japanese_Game Yes
 Voiced No
 Image
 Backloggd
+Vndb
+Howlongtobeat
 Playtime Average
 
 ## Notes
