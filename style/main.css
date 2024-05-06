@@ -9,9 +9,13 @@
 }
 
 #output th {
-  border: 1px solid;
+  border: none;
   padding-left: 10px;
   padding-right: 10px;
+}
+
+.invisible {
+  border: none !important;
 }
 
 body {
@@ -38,4 +42,8 @@ a {
 
 .main #input input {
   width: 70%;
+}
+
+#details_label {
+  width: 30%;
 }

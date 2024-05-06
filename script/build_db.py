@@ -35,6 +35,8 @@ class Tag(BaseEnum):
     FURIGANA = "furigana"
     JAPANESE_GAME = "japanese_game"
     VOICED = "voiced"
+    IMAGE = "image"
+    BACKLOGGD = "backloggd"
 
 class Furigana(BaseEnum):
     NOT_SUPPORTED = "not supported"

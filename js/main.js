@@ -41,6 +41,12 @@ function show_entry(entry) {
     column.appendChild(document.createTextNode(entry[k]));
     data.appendChild(column);
   });
+  let column = document.createElement("td");
+  column.classList.add("invisible");
+  column.innerHTML += "<a href=game.html?title="
+    + encodeURIComponent(entry['title'])
+    + "><img src='res/details_label.png' id='details_label' /></a>";
+  data.appendChild(column);
   return data
 }
 
@@ -52,6 +58,8 @@ function refresh_list() {
     column.appendChild(document.createTextNode(v));
     titles.appendChild(column);
   });
+  titles.appendChild(document.createElement("th"));
+
   content_table.appendChild(titles);
 
   let title = document.getElementById('titlebox').value;

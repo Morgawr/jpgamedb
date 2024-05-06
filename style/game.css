@@ -1,0 +1,47 @@
+body {
+  background: #4B4453;
+  color: #FF836A;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.main {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  padding-top: 10px;
+  overflow: hidden;
+}
+
+#left {
+  width: 50%;
+  float: left;
+}
+
+#right {
+  width: 50%;
+  float: right;
+}
+table {
+  width: 100%;
+}
+
+td {
+  border: 1px solid;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+th {
+  border: none;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+h1 {
+  color: #B0A8B9;
+}
+
+a {
+  color: #C54E39;
+  font-weight: bold;
+}
