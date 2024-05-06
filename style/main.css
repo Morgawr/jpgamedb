@@ -32,4 +32,6 @@
 
 #details_label {
   width: 30%;
+  min-width: 70px;
 }
+
