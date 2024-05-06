@@ -1,0 +1,34 @@
+body {
+  background: #4B4453;
+  color: #FF836A;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+h1 {
+  color: #B0A8B9;
+}
+
+a {
+  color: #C54E39;
+  font-weight: bold;
+}
+
+.very_easy {
+  color: #99ff66;
+}
+
+.easy {
+  color: #0fbd66;
+}
+
+.average {
+  color: #cccc00;
+}
+
+.hard {
+  color: #e64d00;
+}
+
+.very_hard {
+  color: #ff33cc;
+}

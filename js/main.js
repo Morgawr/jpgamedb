@@ -38,6 +38,9 @@ function show_entry(entry) {
   let data = document.createElement("tr");
   Object.entries(TABLE_ENTRIES).forEach(([k,v]) => {
     let column = document.createElement("td");
+    if (k == 'difficulty') {
+      column.classList.add(entry[k].split(' ').join('_'));
+    }
     column.appendChild(document.createTextNode(entry[k]));
     data.appendChild(column);
   });

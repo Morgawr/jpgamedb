@@ -77,6 +77,9 @@ function populate_page() {
         document.createTextNode(entry[name])
       );
     }
+    if (name == 'difficulty') {
+      document.getElementById(name + 'td').classList.add(entry[name].split(' ').join('_'));
+    }
   });
 
   if (entry['notes']) {
