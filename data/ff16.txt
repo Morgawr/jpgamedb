@@ -1,0 +1,20 @@
+Title Final Fantasy XVI
+Genre JRPG
+Difficulty very hard
+Furigana mostly no
+Japanese_Game Yes
+Pausable_Text no
+Voiced full
+Backlog no
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co5w3k.jpg
+Backloggd https://www.backloggd.com/games/final-fantasy-xvi/
+Howlongtobeat https://howlongtobeat.com/game/83152
+Playtime long
+
+## Notes
+
+The Japanese in this game is quite hard and it does not mess around. It is entirely voiced, including every single background interaction between random NPCs, and the text is not pausable. This means you will have to keep up without being able to look up many unknown words, especially during certain action cutscenes and QTEs that require your full attention.
+
+Vocabulary-wise, it also uses quite a bit of complicated words, as it takes place in a fantasy pseudo-medieval european-style land but with some sci-fi technology. The two main villains also speak in a bit of fancy and archaic Japanese, and so do a lot of other (especially noble) characters.
+
+To make things worse, the game script in English is almost completely different from the Japanese, so if you are the kind of person that wants to look up a translation to follow the story, you're not going to have a good time with this one.

@@ -64,6 +64,22 @@
         "browsable": true
     },
     {
+        "title": "Final Fantasy XVI",
+        "genre": "jrpg",
+        "difficulty": "very hard",
+        "furigana": "mostly no",
+        "japanese_game": "yes",
+        "pausable_text": "no",
+        "voiced": "full",
+        "backlog": "no",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5w3k.jpg",
+        "backloggd": "https://www.backloggd.com/games/final-fantasy-xvi/",
+        "howlongtobeat": "https://howlongtobeat.com/game/83152",
+        "playtime": "long",
+        "notes": "\n\n\nThe Japanese in this game is quite hard and it does not mess around. It is entirely voiced, including every single background interaction between random NPCs, and the text is not pausable. This means you will have to keep up without being able to look up many unknown words, especially during certain action cutscenes and QTEs that require your full attention.\n\n\n\nVocabulary-wise, it also uses quite a bit of complicated words, as it takes place in a fantasy pseudo-medieval european-style land but with some sci-fi technology. The two main villains also speak in a bit of fancy and archaic Japanese, and so do a lot of other (especially noble) characters.\n\n\n\nTo make things worse, the game script in English is almost completely different from the Japanese, so if you are the kind of person that wants to look up a translation to follow the story, you're not going to have a good time with this one.\n",
+        "browsable": true
+    },
+    {
         "title": "Paper Mario: The Origami King",
         "genre": "jrpg",
         "difficulty": "easy",
