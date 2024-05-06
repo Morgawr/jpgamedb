@@ -1,2 +1,0 @@
-paper_mario_origami.txt
-pokemon_shield.txt

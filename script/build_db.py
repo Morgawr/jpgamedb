@@ -37,6 +37,15 @@ class Tag(BaseEnum):
     VOICED = "voiced"
     IMAGE = "image"
     BACKLOGGD = "backloggd"
+    PLAYTIME = "playtime"
+
+class Playtime(BaseEnum):
+    VERY_SHORT = "very short"
+    SHORT = "short"
+    AVERAGE = "average"
+    LONG = "long"
+    VERY_LONG = "very long"
+    UNKNOWN = "unknown"
 
 class Furigana(BaseEnum):
     NOT_SUPPORTED = "not supported"
@@ -77,11 +86,11 @@ ENUM_MAPPING = {
         Tag.FURIGANA: Furigana,
         Tag.JAPANESE_GAME: IsJapanese,
         Tag.VOICED: Voiced,
+        Tag.PLAYTIME: Playtime,
 }
 
 def verify_input_is_valid(input: str) -> bool:
-    index = os.path.join(input, "index.txt")
-    return os.path.isfile(index)
+    return os.path.isdir(input)
 
 def load_game_entry(input: str) -> Tuple[str, Dict[str, str]]:
     """Returns a key,value dictionary entry for a game."""
@@ -123,9 +132,10 @@ def load_game_entry(input: str) -> Tuple[str, Dict[str, str]]:
 def build_data_map(input: str) -> Dict[str, Dict[str, str]]:
     game_list = [
             game.strip()
-            for game in open(
-                os.path.join(input, "index.txt"), "r").readlines()
-            if game.strip()
+            for game in os.listdir(input)
+            if game.strip() != 'template.txt'
+            and game[0] != '.'
+            and game.endswith('.txt')
     ]
     game_map = {}
     for game in game_list:
@@ -142,15 +152,14 @@ def main() -> int:
     parser.add_argument(
             "--input",
             required=True,
-            help="The directory path where the source db files exist. It \
-                  expects an index.txt file to be present.")
+            help="The directory path where the db files exist.")
     parser.add_argument(
             "--output",
             required=True,
             help="The directory path where the json db will be written to.")
     args = parser.parse_args()
     if not verify_input_is_valid(args.input):
-        eprint("Database file index.txt not found at", args.input)
+        eprint("Directory not found at", args.input)
         return 1
     games = build_data_map(args.input)
     with open(os.path.join(args.output, "gamelist.json"), "w") as f:

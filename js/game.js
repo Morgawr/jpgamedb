@@ -3,6 +3,8 @@ const TABLE_ENTRIES = [
   "genre",
   "furigana",
   "voiced",
+  "japanese_game",
+  "playtime",
 ]
   //"japanese_game": "Japanese Developer?",
 
