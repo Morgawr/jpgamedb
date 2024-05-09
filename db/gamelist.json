@@ -142,5 +142,21 @@
         "pausable_text": "unknown",
         "notes": "\n\n\nI played this game a long time ago. It’s a pretty cute game overall.\n\n\n\nThe grammar is relatively simple and it’s all with furigana so kanji shouldn’t be an issue. There are a lot of puns about food (mostly) with character and enemy names. The mechanics are very simple in general and if you like dungeon crawling light-hearted action RPGs, I think you will enjoy this.\n",
         "browsable": true
+    },
+    {
+        "title": "Star Ocean: The Second Story R",
+        "genre": "jrpg",
+        "difficulty": "hard",
+        "furigana": "not supported",
+        "japanese_game": "yes",
+        "pausable_text": "all",
+        "voiced": "main and side quest",
+        "backlog": "partial",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6nmh.jpg",
+        "backloggd": "https://www.backloggd.com/games/star-ocean-the-second-story-r/",
+        "howlongtobeat": "https://howlongtobeat.com/game/130455",
+        "playtime": "average",
+        "notes": "\n\n\nA remake of an older star ocean game. The remake itself is quite amazing honestly and the artstyle is very charming.\n\n\n\nLanguage-wise, it's pretty average for a sci-fi fantasy game, there are a few technical terms here and there that might throw people off a bit, and some made up words that you kinda need to intuit from context but that also aren't really fundamental to understand the core of the story.\n\n\n\nFor whatever odd reason, the text rendering engine does not support furigana at all, but sometimes the writers will throw in some alternative readings or help the player with some readings by adding the kana in brackets next to the word, but it's relatively rare (maybe like 10-15 times in a whole playthrough).\n\n\n\nThe game has a lot to read, and a very broad set of characters with two main characters and two different storylines/point of views so there's quite a decent replayability. Not all characters can be recruited in each playthrough so if you are the kind of person to enjoy exploring all options, you'll be stuck playing this game for a while (there are apparently 99 different ending combinations, with all character pairs).\n\n\n\nIt is \"mostly\" fully voiced for the main story and side content, including most of the character personal actions (like private skits), although a few here and there aren't voiced for some reason. All other interactions with random NPCs in town are not voiced though.\n\n\n\nOne thing that felt a bit overwhelming was the complex skill and crafting system. There is a lot to do and a lot of options to customize and make builds, although by the end you are able to acquire all or almost all of skills/passive boosts so I wouldn't worry too much about it. There is quite a bit of menu reading though and the descriptions can be a bit hard to follow.\n\n\n\nSpecifically for this last reason, I decided to mark it as hard in language difficulty rather than average.\n",
+        "browsable": true
     }
 ]
