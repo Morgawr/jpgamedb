@@ -1,0 +1,18 @@
+Title Octopath Traveler II
+Genre JRPG
+Difficulty average
+Japanese_Game Yes
+Pausable_Text all
+Voiced partial
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co7ds7.jpg
+Backloggd https://www.backloggd.com/games/octopath-traveler-ii/
+Howlongtobeat https://howlongtobeat.com/game/113582
+Playtime Long
+
+## Notes
+
+Language-wise, I'd say the game is of average difficulty. If you've played other JRPGs before, you will probably have no issues following this one too.
+
+The gameplay/combat is not particularly complicated and the skill descriptions are pretty straightforward.
+
+Unfortunately not all dialogues are voiced, even in the main story quest you get a decent chunk of grunting and unread text boxes which raise the difficulty a bit. Also, some characters speak with funny accents.

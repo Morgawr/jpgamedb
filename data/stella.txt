@@ -1,0 +1,17 @@
+Title Stella of the End
+Genre visual novel
+Difficulty average
+Japanese_Game Yes
+Pausable_Text all
+Voiced partial
+Backlog full
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co743p.jpg
+Backloggd https://www.backloggd.com/games/stella-of-the-end/
+Vndb https://vndb.org/v29443
+Jpdb https://jpdb.io/visual-novel/7543/tsui-no-stella
+Howlongtobeat https://howlongtobeat.com/game/114136
+Playtime Average
+
+## Notes
+
+The game has a decent amount of sci-fi technical language, but overall I did not find it particularly hard to follow. All dialogues are voiced but the narration parts are not, which is par of the course for visual novels anyway. Difficulty wise I'd say this is about average.
