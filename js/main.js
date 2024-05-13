@@ -34,6 +34,11 @@ let json_data = await fetchData();
 
 const fuse = new Fuse(json_data, options);
 
+function go_to_entry(title) {
+  let url = "game.html?title=" + encodeURIComponent(title);
+  window.location.href = url
+}
+
 function show_entry(entry) {
   let data = document.createElement("tr");
   Object.entries(TABLE_ENTRIES).forEach(([k,v]) => {
@@ -44,12 +49,14 @@ function show_entry(entry) {
     column.appendChild(document.createTextNode(entry[k]));
     data.appendChild(column);
   });
-  let column = document.createElement("td");
-  column.classList.add("invisible");
-  column.innerHTML += "<a href=game.html?title="
-    + encodeURIComponent(entry['title'])
-    + "><img src='res/details_label.png' id='details_label' /></a>";
-  data.appendChild(column);
+  data.classList.add("game_entry");
+  //let column = document.createElement("td");
+  //column.classList.add("invisible");
+  //column.innerHTML += "<a href=game.html?title="
+  //  + encodeURIComponent(entry['title'])
+  //  + "><img src='res/details_label.png' id='details_label' /></a>";
+  //data.appendChild(column);
+  data.onclick = function() { go_to_entry(entry['title']) }
   return data
 }
 

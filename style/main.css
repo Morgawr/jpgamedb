@@ -14,6 +14,15 @@
   padding-right: 10px;
 }
 
+.game_entry:hover {
+  background: #223 !important;
+  cursor: pointer;
+}
+
+.game_entry:hover td {
+  background: transparent;
+}
+
 .invisible {
   border: none !important;
 }
