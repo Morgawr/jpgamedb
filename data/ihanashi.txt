@@ -1,0 +1,21 @@
+Title Ihanashi no Majo
+Genre Visual Novel
+Difficulty Hard
+Furigana mostly no
+Japanese_Game Yes
+Pausable_Text all
+Voiced partial
+Backlog full
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co5bz5.jpg
+Backloggd https://www.backloggd.com/games/the-witch-of-the-ihanashi/
+Vndb https://vndb.org/v32758
+Howlongtobeat https://howlongtobeat.com/game/145111
+Playtime Average
+
+## Notes
+
+This is a kinetic visual novel (= pretty much no choices) and it takes place in a somewhat remote island around Okinawa. It touches a lot of Okinawan/Ryuukyuu folklore, and uses a lot of words that are specific to Okinawan culture. For this reason, I consider it to be harder than your average visual novel. The actual grammar and complexity of the language is relatively low, however the game throws at you names of certain folk gods and temples and other ritual stuff that can feel a bit overwhelming at times.
+
+The story itself is structured in a few arcs, and the first couple are mostly just slice of life comfy stuff happening in the (island) countryside. However, later on the story becomes more serious and it starts to get into the more complicated plot parts, and that's where the difficulty comes out.
+
+I think it's worth it to give it a try just for the slice of life parts, and by the time you get to the more complicated portions, maybe you'll be so invested in the story it will not feel like it is too hard.

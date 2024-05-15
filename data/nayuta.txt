@@ -1,0 +1,19 @@
+Title The Legend of Nayuta: Boundless Trails
+Genre JRPG
+Difficulty average
+Furigana mostly no
+Japanese_Game Yes
+Pausable_Text all
+Voiced partial
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co3bb1.jpg
+Backloggd https://www.backloggd.com/games/the-legend-of-nayuta-boundless-trails/
+Howlongtobeat https://howlongtobeat.com/game/6426
+Playtime Average
+
+## Notes
+
+Just from the title, Nayuta no Kiseki might look like just another Trails / Kiseki game, but it's an almost completely different thing. It is a spin-off story that takes place in a completely different world, with different characters, and the gameplay is also very different. It's an action JRPG with levels/stages, rather than a pseudo-open world turn based party based JRPG. You take control of one and only one character: Nayuta, and have to swing your sword and use magic to defeat enemies.
+
+The story is not too complicated and is partially (but not entirely) voiced. I think overall it's a very nice entry into the genre if you're not a complete beginner anymore and want a bit of a healthy (but not too much) challenge.
+
+Playtime-wise it's not very long, at least compared to the other kiseki games, and it does not overstay its welcome.

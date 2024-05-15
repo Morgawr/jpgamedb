@@ -1,0 +1,21 @@
+Title The Legend of Heroes: Trails of Cold Steel IV
+Genre JRPG
+Difficulty very hard
+Furigana mostly no
+Japanese_Game Yes
+Pausable_Text All
+Voiced partial
+Backlog partial
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co31wc.jpg
+Backloggd https://www.backloggd.com/games/the-legend-of-heroes-trails-of-cold-steel-iv/
+Jpdb https://jpdb.io/video-game/5322/trails-of-cold-steel-iv
+Howlongtobeat https://howlongtobeat.com/game/69471
+Playtime Very Long
+
+## Notes
+
+This is the culmination of the Erebonian quadrilogy of the Trails / Kiseki series.
+
+Overall, this is mostly the same as its predecessor. There are a few more quality of life improvements but language/feature-wise it plays out the same as Cold Steel 3. The story keeps getting more complicated and the lore expands, so I still consider this to be very hard, and the length of this game was astronomical to me. There's a lot of side content and side quests.
+
+If you did fine with Cold Steel 3, you'll do fine with this one too.

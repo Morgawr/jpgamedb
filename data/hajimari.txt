@@ -1,0 +1,23 @@
+Title The Legend of Heroes: Trails Into Reverie
+Genre JRPG
+Difficulty hard
+Furigana mostly no
+Japanese_Game Yes
+Pausable_Text All
+Voiced partial
+Backlog full
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co3bb2.jpg
+Backloggd https://www.backloggd.com/games/the-legend-of-heroes-trails-into-reverie/
+Jpdb https://jpdb.io/video-game/8492/trails-into-reverie
+Howlongtobeat https://howlongtobeat.com/game/82480
+Playtime Very Long
+
+## Notes
+
+Trails into Reverie / Hajimari no Kiseki is a standalone entry that merges the storylines of the Crossbell dualogy (Zero, Ao no kiseki) and the Erebonian quadrilogy (Cold Steel) into a grand finale of a story. If you haven't played (at the very least) Trails of Cold Steel, you should not be playing this because it would be very confusing.
+
+There are multiple routes with multiple protagonists, and the game is split between a main story and some dungeon exploration with side events and lore explanations in a similar fashion to Trails in the Sky the 3rd.
+
+Language-wise, there is some complicated lore and background exposition, but I felt it was not as hard into politics like the Cold Steel series, so I think "hard" rather than "very hard" is a reasonable assessment.
+
+The rest of the game plays pretty much the same as its predecessors, so by now you should be very familiar with how these games work.

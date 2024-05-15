@@ -1,0 +1,23 @@
+Title The Legend of Heroes: Trails of Cold Steel III
+Genre JRPG
+Difficulty very hard
+Furigana mostly no
+Japanese_Game Yes
+Pausable_Text All
+Voiced partial
+Backlog partial
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co1mkb.jpg
+Backloggd https://www.backloggd.com/games/the-legend-of-heroes-trails-of-cold-steel-iii/
+Jpdb https://jpdb.io/video-game/5321/trails-of-cold-steel-iii
+Howlongtobeat https://howlongtobeat.com/game/55663
+Playtime Very Long
+
+## Notes
+
+Cold Steel 3 marks the second half of the Erebonian quadrilogy. If you haven't played the previous cold steel games and, ideally, the Sky and Crossbell arcs too, I strongly recommend you do so because otherwise this game and its sequel will be very hard to follow.
+
+Difficulty-wise, the language is mostly the same as the previous two games, however there are a few differences. First off, we finally get a backlog feature, which can be of great help if you need to re-read dialogues and conversations. Unfortunately, the voice acting is still as inconsistent as ever. The game adds a few more quest and event markers and I feel like starting from this entry it might be more acceptable to stop using a walkthrough as you will likely be able to come across most missable events (although I still recommend using one just in case).
+
+Despite the language being mostly the same, the story starts to pick up a lot of complexity as more and more parts of the lore start falling into place and the cast of characters keeps growing (including those from the two previous arcs). The length of the game is also bigger than its predecessors, meaning there's much more to read, and the political language keeps increasing. For this reason I consider this game to very hard.
+
+But still, if you managed to get this far with the series, you'll do fine.

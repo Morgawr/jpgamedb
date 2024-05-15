@@ -101,7 +101,7 @@ function refresh_list() {
 
   // Keep entries sorted non-case sensitive
   let data = fuse.search(search_index).sort(function(a, b){
-    if (a.item['difficulty'] == b.item['difficulty']) {
+    if (a.item['difficulty'] == b.item['difficulty'] || !!title) {
       return a.item['title'].toLowerCase().localeCompare(
         b.item['title'].toLowerCase())
     }

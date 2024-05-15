@@ -1,0 +1,20 @@
+Title The Legend of Heroes: Trails to Azure
+Genre JRPG
+Difficulty Hard
+Furigana mostly no
+Japanese_Game Yes
+Pausable_Text All
+Voiced main quest
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co5ahi.jpg
+Backloggd https://www.backloggd.com/games/the-legend-of-heroes-trails-to-azure/
+Jpdb https://jpdb.io/video-game/5323/trails-to-azure
+Howlongtobeat https://howlongtobeat.com/game/10598
+Playtime Long
+
+## Notes
+
+Trails to Azure / Ao no Kiseki is the second entry in the Crossbell dualogy, sequel to Zero no Kiseki.
+
+Difficulty-wise, the game is pretty much the same as its predecessor. I felt like maybe the language got a bit harder towards the end as you get thrown into a much larger plot (this is a theme that will come back in the Cold Steel games) but it's still relatively okay to follow. If you made it this far in the kiseki universe in Japanese, you will be fine with this game too.
+
+As always, use a walkthrough, although I'd stay away from the neoseeker (English) walkthrough. It has some references and spoilers for the Cold Steel games. The person who wrote it really can't stop giving their commentary about stuff and it really annoyed me.

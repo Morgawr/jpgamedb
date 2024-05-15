@@ -1,0 +1,23 @@
+Title The Legend of Heroes: Trails of Cold Steel
+Genre JRPG
+Difficulty Hard
+Furigana mostly no
+Japanese_Game Yes
+Pausable_Text All
+Voiced partial
+Backlog No
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co44ma.jpg
+Backloggd https://www.backloggd.com/games/the-legend-of-heroes-trails-of-cold-steel/
+Jpdb https://jpdb.io/video-game/5319/trails-of-cold-steel
+Howlongtobeat https://howlongtobeat.com/game/14320
+Playtime Long
+
+## Notes
+
+Trails of Cold Steel marks the beginning of the Erebonia quadrilogy of the Trails series. While I personally recommend starting with Trails in the Sky, this is also a decent entry point in the series and the first "modern" 3D game, which might be more palatable as an entry point.
+
+Starting from this game, the series begins to have more approachable quality-of-life, like some quest and event markers on the map. This makes it easier to navigate the story even without a walkthrough, however there are still plenty of missable events. I still recommend playing these with a guide if you want to experience the full story.
+
+Language-wise, the game is not that different from its predecessors, however the narrative starts getting more political. The story takes place in the Erebonian empire and deals with a lot of political intrigue, scheming, and various factions of noblemen and other families, some of which speak with very pompous and sometimes archaic language. Some of the military ranks, political roles, and major names in the story can also be hard to follow.
+
+This is compounded by the fact that the game presents some very inconsistent voice acting, even more than its predecessors. Even within the main story, some characters seem to be voiced or unvoiced randomly, sometimes even mid-conversation, which can throw the player off track if they rely too much on the voices instead of reading.

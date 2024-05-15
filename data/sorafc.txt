@@ -1,0 +1,29 @@
+Title The Legend of Heroes: Trails in the Sky
+Genre JRPG
+Difficulty Hard
+Furigana mostly no
+Japanese_Game Yes
+Pausable_Text All
+Voiced partial
+Backlog No
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co7ybm.jpg
+Backloggd https://www.backloggd.com/games/the-legend-of-heroes-trails-in-the-sky/
+Jpdb https://jpdb.io/video-game/5316/trails-in-the-sky
+Howlongtobeat https://howlongtobeat.com/game/10011
+Playtime Long
+
+## Notes
+
+This is the first game in the trails series, and the first part of the Trails in the Sky trilogy.
+
+Okay, I'll be honest with you, I actually did not play this game in Japanese. I played it years before I learned Japanese, in English. However, I did play through the entire series in Japanese, and I played Trails in the Sky: SC (the sequel), and the two games are pretty much the same so whatever I say about that one will apply here too.
+
+This series is very long, but so much worth it. I think if you get into it starting from this entry and manage to get through all the other entries in the series, your level of Japanese understanding will become incredibly solid.
+
+It is a series with lots of writing and lots of text, many NPCs, and you will not run out of lines to read for sure.
+
+Trails in the Sky itself is the first entry, and the language is probably the easiest of them all (except for Nayuta, which I cover in its own page), but I would not consider it easy either. The story is pretty straightforward and starts off with very low stakes. You just travel around the country as two trainer bracers (kinda mercenaries) and take on sidequests which fill  your quest log (there are mostly no quest markers so you're on your own in figuring out where to go).
+
+Some versions of this game also have voice acting, if you have the steam version there are patches to add voice acting from the Japanese version (however I didn't do that so I don't know how extensive it is). The usage of furigana is somewhat limited but it will come up often enough either in made-up words, or for some of the more complicated terminology.
+
+The real hard part of this game is dealing with side quests and missable content. There is a lot to follow and every single step of the story ends up unlocking more events and some of them have a very limited window before they expire. If you don't want to backtrack and speak to every single NPC multiple times after every minor story event, I honestly recommend playing this game using a walkthrough.

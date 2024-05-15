@@ -1,0 +1,25 @@
+Title The Legend of Heroes: Trails through Daybreak
+Genre JRPG
+Difficulty hard
+Furigana mostly no
+Japanese_Game Yes
+Pausable_Text some
+Voiced partial
+Backlog full
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co7uf7.jpg
+Backloggd https://www.backloggd.com/games/the-legend-of-heroes-trails-through-daybreak/
+Jpdb https://jpdb.io/video-game/8491/kuro-no-kiseki
+Howlongtobeat https://howlongtobeat.com/game/94547
+Playtime Very Long
+
+## Notes
+
+Trails through Daybreak / Kuro no Kiseki is the first entry in the new Kiseki arc that takes place in the Calvard republic.
+
+Story-wise, it takes place a few years after the events in Trails into Reverie, with an almost entirely brand new cast of characters and locations to explore.
+
+While I would not recommend starting the Kiseki series from here, it can still be considered a decent entry point if you don't want to go through the Sky trilogy or the Cold Steel quadrilogy (but why wouldn't you? they are great!).
+
+Language-wise, it's very similar to its predecessors, however it's not as filled with politics and political language so it might be more approachable. The amount of quality of life improvements in this game are massive compared to its predecessors and it finally feels like a modern game. A lot of the new gameplay elements are action-based and might be a bit harder to follow but you'll get used to them quickly enough, especially if you played through the previous entries.
+
+Unfortunately, just like its predecessors, the amount of voiced lines is incredibly inconsistent. There are main story segments with randomly voiced characters in the middle of non-voiced conversations.

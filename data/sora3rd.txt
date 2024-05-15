@@ -1,0 +1,23 @@
+Title The Legend of Heroes: Trails in the Sky the 3rd
+Genre JRPG
+Difficulty Average
+Furigana mostly no
+Japanese_Game Yes
+Pausable_Text All
+Voiced partial
+Backlog No
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co23da.jpg
+Backloggd https://www.backloggd.com/games/the-legend-of-heroes-trails-in-the-sky-the-3rd/
+Jpdb https://jpdb.io/video-game/5318/trails-in-the-sky-the-3rd
+Howlongtobeat https://howlongtobeat.com/game/10013
+Playtime Long
+
+## Notes
+
+This is the third entry of the Trails in the Sky trilogy. After the conclusion of Sora FC and SC, we come back to (mostly) the same cast of characters, however the main character and structure of the narrative are a bit different.
+
+Unlike the first two games, this game is much more linear and is closer to a dungeon crawler. Without spoiling the story, you're basically stuck in a specific map/part of the world, and slowly advance down a dungeon while tackling new challenges and encountering fragments of the story which end up expanding on the lore of the first two games and the overall Trails universe.
+
+For this reason, I think the difficulty in the Japanese for this game is a bit lower than its predecessors. You don't have missable side quests or semi-open world exploration, so you really cannot get lost.
+
+The gameplay is still mostly the same, and if you have played the other two games, you will be fine with this one too (and if you haven't, go play them!)

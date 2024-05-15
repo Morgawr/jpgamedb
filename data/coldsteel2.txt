@@ -1,0 +1,21 @@
+Title The Legend of Heroes: Trails of Cold Steel II
+Genre JRPG
+Difficulty Hard
+Furigana mostly no
+Japanese_Game Yes
+Pausable_Text All
+Voiced partial
+Backlog No
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co44mb.jpg
+Backloggd https://www.backloggd.com/games/the-legend-of-heroes-trails-of-cold-steel-ii/
+Jpdb https://jpdb.io/video-game/5320/trails-of-cold-steel-ii
+Howlongtobeat https://howlongtobeat.com/game/23196
+Playtime Long
+
+## Notes
+
+Cold Steel 2 is the second entry in the Cold Steel arc of the Trails / Kiseki series.
+
+My commentary/notes for this game are pretty much the same as those for Cold Steel 1, so I just recommend reading those. But anyways, you shouldn't really be playing this game unless you have at least played Cold Steel 1, as the story is a straight continuation of its predecessor.
+
+If you managed to get through Cold Steel 1, you'll do fine with this one too.

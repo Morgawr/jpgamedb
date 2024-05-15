@@ -1,0 +1,16 @@
+Title The Legend of Heroes: Kuro no Kiseki II - Crimson Sin
+Genre JRPG
+Difficulty hard
+Furigana mostly no
+Japanese_Game Yes
+Pausable_Text some
+Voiced partial
+Backlog full
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co5bec.jpg
+Backloggd https://www.backloggd.com/games/the-legend-of-heroes-kuro-no-kiseki-ii-crimson-sin/
+Howlongtobeat https://howlongtobeat.com/game/115699
+Playtime Long
+
+## Notes
+
+Kuro no Kiseki 2 is the sequel to Kuro no Kiseki 1 (duh) and it plays out mostly the same. There's not really much to say about it, except maybe the playtime is a bit shorter than its predecessor (still pretty long). Language-wise, it's pretty much the same, and if you haven't played Kuro 1 you really shouldn't be playing this.

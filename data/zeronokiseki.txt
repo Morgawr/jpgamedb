@@ -1,0 +1,24 @@
+Title The Legend of Heroes: Zero no Kiseki
+Genre JRPG
+Difficulty Hard
+Furigana mostly no
+Japanese_Game Yes
+Pausable_Text All
+Voiced main quest
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co7527.jpg
+Backloggd https://www.backloggd.com/games/the-legend-of-heroes-zero-no-kiseki/
+Jpdb https://jpdb.io/video-game/5315/trails-from-zero
+Howlongtobeat https://howlongtobeat.com/game/10599
+Playtime Long
+
+## Notes
+
+Trails from Zero / Zero no Kiseki is the first entry in the Crossbell arc dualogy. This game and its sequel, Ao no Kiseki, take place in the city state of Crossbell, after the events of the Trails in the Sky trilogy.
+
+There are some recurring elements and quests referenced from Trails in the Sky, and it is very much strongly advised to go play that trilogy first. This is also very important for the main story, as some parts are continuations of story branches that started in the previous trilogy.
+
+The difficulty of the Japanese in this game is more or less on par with the Trails in the Sky trilogy, and the gameplay structure is mostly the same. Like its predecessors, it has missable quests and events, and the core gameplay loop is mostly the same. You take the role of a special police force who is tasked to go around Crossbell and take on side quests and tasks, eventually uncovering some broader plot and stuff going on.
+
+If you have played the previous games, you will be fine with these too. If you haven't, I strongly recommend you do.
+
+As for the previous entries as well, I recommend playing these with a walkthrough so you can better enjoy the story without missing important events.

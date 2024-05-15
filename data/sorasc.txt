@@ -1,0 +1,19 @@
+Title The Legend of Heroes: Trails in the Sky SC
+Genre JRPG
+Difficulty Hard
+Furigana mostly no
+Japanese_Game Yes
+Pausable_Text All
+Voiced partial
+Backlog No
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co74em.jpg
+Backloggd https://www.backloggd.com/games/the-legend-of-heroes-trails-in-the-sky-sc/
+Jpdb https://jpdb.io/video-game/5317/trails-in-the-sky-sc
+Howlongtobeat https://howlongtobeat.com/game/31863
+Playtime Long
+
+## Notes
+
+Sequel to the Trails in the Sky (FC) game entry. I recommend reading the notes from that entry because my commentary and advice stays exactly the same. There is really no difference between the two games as this one is just the second half/continuation of the story from the first one.
+
+Realistically speaking, if you played the first entry, you already know what to expect here and should be more than capable enough to deal with this one too. If you haven't played the first entry, you really should because the story in this one will not make much sense otherwise.
