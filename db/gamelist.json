@@ -114,6 +114,22 @@
         "browsable": true
     },
     {
+        "title": "Furikake Spacey",
+        "genre": "visual novel",
+        "difficulty": "very hard",
+        "japanese_game": "yes",
+        "pausable_text": "all",
+        "voiced": "no",
+        "backlog": "full",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6y96.jpg",
+        "backloggd": "https://www.backloggd.com/games/furikake-spicy/",
+        "vndb": "https://vndb.org/v37548",
+        "furigana": "unknown",
+        "playtime": "unknown",
+        "notes": "\n\n\nThis VN is the literal definition of a fever dream. It is chock-full of references, inside jokes, slang, and incredibly hard self-referential Japanese. The specific word choice is not particularly hard, as in, it doesn't use particularly complicated or archaic kanji, but it makes up for it by the incredibly dense structure of rapid fire jokes and references to both contemporary (Japanese) internet memes, and older historical (showa era) memes.\n\n\n\nFor this reason, I consider this to be very hard. If you want a challenge into Japanese humor and internet culture, this VN is right for you. Also the artstyle is amazing.\n",
+        "browsable": true
+    },
+    {
         "title": "Octopath Traveler II",
         "genre": "jrpg",
         "difficulty": "average",

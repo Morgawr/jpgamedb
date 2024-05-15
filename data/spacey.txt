@@ -1,0 +1,16 @@
+Title Furikake Spacey
+Genre Visual Novel
+Difficulty Very Hard
+Japanese_Game Yes
+Pausable_Text all
+Voiced No
+Backlog Full
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co6y96.jpg
+Backloggd https://www.backloggd.com/games/furikake-spicy/
+Vndb https://vndb.org/v37548
+
+## Notes
+
+This VN is the literal definition of a fever dream. It is chock-full of references, inside jokes, slang, and incredibly hard self-referential Japanese. The specific word choice is not particularly hard, as in, it doesn't use particularly complicated or archaic kanji, but it makes up for it by the incredibly dense structure of rapid fire jokes and references to both contemporary (Japanese) internet memes, and older historical (showa era) memes.
+
+For this reason, I consider this to be very hard. If you want a challenge into Japanese humor and internet culture, this VN is right for you. Also the artstyle is amazing.
