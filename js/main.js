@@ -2,7 +2,7 @@ var outb = document.getElementById('output');
 
 const TABLE_ENTRIES = {
   "title": "Title",
-  "difficulty": "Difficulty",
+  "difficulty": "Language Difficulty",
   "genre": "Genre",
   "furigana": "Furigana",
   "voiced": "Voiced Lines",

@@ -147,6 +147,22 @@
         "browsable": true
     },
     {
+        "title": "Kanna Maze",
+        "genre": "visual novel",
+        "difficulty": "hard",
+        "furigana": "not supported",
+        "japanese_game": "no",
+        "pausable_text": "some",
+        "voiced": "partial",
+        "backlog": "full",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co87p5.jpg",
+        "backloggd": "https://www.backloggd.com/games/kanna-maze/",
+        "vndb": "https://vndb.org/v50648",
+        "playtime": "short",
+        "notes": "\n\n\nFor the extremely cheap price of this VN on Steam, I think this is an insane amount of value you can get out of it. I really enjoyed this VN a lot and was very unexpected, given how cheap it was to buy.\n\n\n\nThe VN does not support any furigana at all, and often makes use of complicated words and unusual kanji sometimes, but the good thing is that all the dialogues from all the characters (including the protagonist) are fully voiced. The narration parts aren't voiced though, unfortunately.\n\n\n\nThe story is very interesting and encourages the player to explore every single option and alternative choices in a somewhat complicated path tree, and at any point in time you can go back and re-play certain parts (you're actually expected to). This is great for people who might miss a dialogue or two or just in case you miss a core part of the plot and want to re-read it. There is no explicit save feature because the game unlocks parts of the story as you play them and once you unlock them you can go back to them at any time automatically.\n\n\n\nThe core gameplay loop revolves around you going through the story and reaching a certain ending, then rewinding the story and going down a different path. Initially some choices are locked and you can only unlock them by witnessing certain endings, until you reach the one true ending.\n\n\n\nThe language touches upon a lot of scientific jargon like physics, quantum mechanics, dark matter, etc, but most of the complex concepts are explained directly so as long as you can follow you shouldn't feel too lost.\n\n\n\nA downside of the way the game is narrated is that a lot of descriptions are formatted like a book, with dialogue interspersed with descriptions. This somewhat interferes with the voice acting a bit as the voices skip over the descriptions and move towards the next line of dialogue, but if you are a slow reader you will still be reading the description and might feel lost. But at least you can always replay the voiced cue from the backlog.\n\n\n\nAnother downside is that the game is not natively Japanese, however I have to say I did not feel like the text felt out of place and the translation seems excellent. The story also takes place in a real part of Japan with real buildings and setting so it was clearly developed with Japan and a Japanese audience in mind. There are some weird quirks in the backlog that show it's not a Japanese developer, like sometimes the backlog uses a Chinese font (normal textboxes use a Japanese font), and sometimes there's some weird romaji (like 警察 was written as KESATSU) but they are very minor things.\n\n\n\nOverall, I think the level of language in this VN is hard due to the complex words and explanations, but it's a very good and engaging VN and if you are into this kind of multiple-choice thriller/horror narrative style I'm sure you will enjoy this one. I was very surprised at how highly I ended up rating this hidden gem.\n",
+        "browsable": true
+    },
+    {
         "title": "Octopath Traveler II",
         "genre": "jrpg",
         "difficulty": "average",
