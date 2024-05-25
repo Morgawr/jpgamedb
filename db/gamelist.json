@@ -494,5 +494,53 @@
         "backlog": "unknown",
         "notes": "\n\n\nJust from the title, Nayuta no Kiseki might look like just another Trails / Kiseki game, but it's an almost completely different thing. It is a spin-off story that takes place in a completely different world, with different characters, and the gameplay is also very different. It's an action JRPG with levels/stages, rather than a pseudo-open world turn based party based JRPG. You take control of one and only one character: Nayuta, and have to swing your sword and use magic to defeat enemies.\n\n\n\nThe story is not too complicated and is partially (but not entirely) voiced. I think overall it's a very nice entry into the genre if you're not a complete beginner anymore and want a bit of a healthy (but not too much) challenge.\n\n\n\nPlaytime-wise it's not very long, at least compared to the other kiseki games, and it does not overstay its welcome.\n",
         "browsable": true
+    },
+    {
+        "title": "Yakuza 0",
+        "genre": "action",
+        "difficulty": "hard",
+        "furigana": "not supported",
+        "japanese_game": "yes",
+        "pausable_text": "some",
+        "voiced": "partial",
+        "backlog": "no",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co252x.jpg",
+        "backloggd": "https://www.backloggd.com/games/yakuza-0/",
+        "howlongtobeat": "https://howlongtobeat.com/game/43056",
+        "playtime": "long",
+        "notes": "\n\n\nI played this game a few years ago so my memory is a bit spotty as I try to remember the biggest pain points and details of it.\n\n\n\nThe yakuza series is massive, and this is the usually recommended entry point (either this, Yakuza Kiwami, or Yakuza 7), so chances are you might not be acquainted to the level and style of language which might make it harder than some later entries in the series.\n\n\n\nThe game makes heavy use of Yakuza slang, and on top of that there's quite a bit of game that takes place in Osaka and one of the main character speaks in Osaka dialect. This means it's not exactly an easy game to get into language-wise, hence I'd consider it hard in difficulty.\n\n\n\nMost of the main story content is voiced, but the rest of the side quests and side content is not. Plus, there is no furigana and, if I remember correctly, there is no backlog either. Some of the \"live\" cutscenes also don't have pausable text meaning you need to understand tham in real-time or manually pause them yourself as you go.\n\n\n\nOne thing that distinguishes this from later entries in the series is that it takes place in the showa era, and the interface kinda shows. There are quite a bit of kanji used in the game menu and UI that normally would be written in katakana or have an English interface instead, which adds to the complexity of it.\n",
+        "browsable": true
+    },
+    {
+        "title": "Yakuza Kiwami",
+        "genre": "action",
+        "difficulty": "hard",
+        "furigana": "not supported",
+        "japanese_game": "yes",
+        "pausable_text": "some",
+        "voiced": "partial",
+        "backlog": "no",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1pbc.jpg",
+        "backloggd": "https://www.backloggd.com/games/yakuza-kiwami/",
+        "howlongtobeat": "https://howlongtobeat.com/game/39484",
+        "playtime": "average",
+        "notes": "\n\n\nThis is another possible entry point for people new to the Yakuza/Ryu ga gotoku series.\n\n\n\nMore or less, it's about the same complexity as Yakuza 0, except there's a bit less kansai dialect and a lot more yakuza slang.\n\n\n\nIf you managed to get through Yakuza 0, you should be fine with this one too. If not, you might struggle a bit as you get up to speed with the Yakuza slang. Refer to the Yakuza 0 entry for more details and comments about the difficulty of the series.\n",
+        "browsable": true
+    },
+    {
+        "title": "Yakuza Kiwami 2",
+        "genre": "action",
+        "difficulty": "hard",
+        "furigana": "not supported",
+        "japanese_game": "yes",
+        "pausable_text": "some",
+        "voiced": "partial",
+        "backlog": "no",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co22ss.jpg",
+        "backloggd": "https://www.backloggd.com/games/yakuza-kiwami-2/",
+        "howlongtobeat": "https://howlongtobeat.com/game/49620",
+        "playtime": "average",
+        "notes": "\n\n\nThis is the sequel to Yakuza Kiwami 1. It does not differ much from the first one, language-wise, and I recommend you play that one first (and Yakuza 0 too while you're at it). The difficulty is about the same.\n",
+        "browsable": true
     }
 ]

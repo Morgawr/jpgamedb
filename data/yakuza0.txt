@@ -1,0 +1,24 @@
+Title Yakuza 0
+Genre Action
+Difficulty Hard
+Furigana not supported
+Japanese_Game Yes
+Pausable_Text Some
+Voiced partial
+Backlog No
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co252x.jpg
+Backloggd https://www.backloggd.com/games/yakuza-0/
+Howlongtobeat https://howlongtobeat.com/game/43056
+Playtime Long
+
+## Notes
+
+I played this game a few years ago so my memory is a bit spotty as I try to remember the biggest pain points and details of it.
+
+The yakuza series is massive, and this is the usually recommended entry point (either this, Yakuza Kiwami, or Yakuza 7), so chances are you might not be acquainted to the level and style of language which might make it harder than some later entries in the series.
+
+The game makes heavy use of Yakuza slang, and on top of that there's quite a bit of game that takes place in Osaka and one of the main character speaks in Osaka dialect. This means it's not exactly an easy game to get into language-wise, hence I'd consider it hard in difficulty.
+
+Most of the main story content is voiced, but the rest of the side quests and side content is not. Plus, there is no furigana and, if I remember correctly, there is no backlog either. Some of the "live" cutscenes also don't have pausable text meaning you need to understand tham in real-time or manually pause them yourself as you go.
+
+One thing that distinguishes this from later entries in the series is that it takes place in the showa era, and the interface kinda shows. There are quite a bit of kanji used in the game menu and UI that normally would be written in katakana or have an English interface instead, which adds to the complexity of it.

@@ -1,0 +1,20 @@
+Title Yakuza Kiwami
+Genre Action
+Difficulty Hard
+Furigana not supported
+Japanese_Game Yes
+Pausable_Text Some
+Voiced partial
+Backlog No
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co1pbc.jpg
+Backloggd https://www.backloggd.com/games/yakuza-kiwami/
+Howlongtobeat https://howlongtobeat.com/game/39484
+Playtime Average
+
+## Notes
+
+This is another possible entry point for people new to the Yakuza/Ryu ga gotoku series.
+
+More or less, it's about the same complexity as Yakuza 0, except there's a bit less kansai dialect and a lot more yakuza slang.
+
+If you managed to get through Yakuza 0, you should be fine with this one too. If not, you might struggle a bit as you get up to speed with the Yakuza slang. Refer to the Yakuza 0 entry for more details and comments about the difficulty of the series.

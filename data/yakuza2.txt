@@ -1,0 +1,16 @@
+Title Yakuza Kiwami 2
+Genre Action
+Difficulty Hard
+Furigana not supported
+Japanese_Game Yes
+Pausable_Text Some
+Voiced partial
+Backlog No
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co22ss.jpg
+Backloggd https://www.backloggd.com/games/yakuza-kiwami-2/
+Howlongtobeat https://howlongtobeat.com/game/49620
+Playtime Average
+
+## Notes
+
+This is the sequel to Yakuza Kiwami 1. It does not differ much from the first one, language-wise, and I recommend you play that one first (and Yakuza 0 too while you're at it). The difficulty is about the same.
