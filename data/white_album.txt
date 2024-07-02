@@ -1,0 +1,28 @@
+Title White Album: Memories Like Falling Snow
+Genre Visual Novel
+Difficulty Average
+Furigana No
+Japanese_Game Yes
+Pausable_Text All
+Voiced Partial
+Backlog Full
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co6kod.jpg
+Backloggd https://www.backloggd.com/games/white-album-memories-like-falling-snow/
+Vndb https://vndb.org/v236
+Jpdb https://jpdb.io/visual-novel/952/white-album
+Howlongtobeat https://howlongtobeat.com/game/129676
+Playtime Average
+
+## Notes
+
+NOTE: THIS IS WHITE ALBUM 1, NOT WHITE ALBUM 2
+
+I needed to put that disclaimer up there, because everyone really loves White Album 2 and always talks about it, but this is (the remake of) White Album 1, which I almost never hear people talk about.
+
+It's a pretty standard run-of-the-mill visual novel. You talk to people, go through a calendar-based system and every day you choose which event/location to attend and which character to talk to. Sometimes (often) you have to choose which topics to bring up to each character and doing that will give you specific affection points and eventually lock you into a specific route or event.
+
+The language difficulty is pretty average, it takes place in everyday Japan (somewhere in the 90s if I understood correctly), so most of the language will be everyday stuff with some specific jargon from the idol/showbusiness world as the main heroines are idols and the main character works in the industry.
+
+There is no furigana and often you will go for a long time without knowing what a certain character's name is, simply because no one mentioned it yet. The narration and main character dialogue lines are unvoiced, but all the other characters are fully voiced.
+
+If you like a simple VN with average language difficulty, this is a good starting point in my opinion.

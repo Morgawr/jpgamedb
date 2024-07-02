@@ -1,0 +1,27 @@
+Title 428: Shibuya Scramble
+Genre visual novel
+Difficulty average
+Furigana Partial
+Japanese_Game Yes
+Pausable_Text All
+Voiced No
+Backlog Full
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co28rd.jpg
+Backloggd https://www.backloggd.com/games/428-shibuya-scramble/
+Vndb https://vndb.org/v1299
+Howlongtobeat https://howlongtobeat.com/game/51898
+Playtime Average
+
+## Notes
+
+Let me preface that I did not complete this game, I stopped playing halfway through because I simply lost interest. It wasn't a bad game or anything, but I just had too much other stuff going on and I decided to not continue with it. I still played a decent chunk (tens of hours) to know how the game plays out and be familiar with the language, I just didn't finish the story.
+
+The game is an interesting mix of VN and adventure as you jump between different timelines and perspectives to solve a police case. Different choices you make at different points in time with certain characters will affect how the story plays out for other characters. For this reason, it's great to test your understanding of the language and has that aspect of lite point-and-click adventure game that tickles that specific part of the brain. On the other hand, you can always go back and rewind/retry multiple choices and see how they play out, so  you will never feel like you messed up (although some choices are a bit obscure or hidden in codex menus or stuff like that).
+
+The language is also surprisingly approachable. I wouldn't say it's easy, but it's very kana-heavy and the usage of kanji is very limited to common words and things that most younger people would know so it's good to practice on it. There are some specific words that relate to the police/detective genre but after playing for a bit you should get used to them soon enough.
+
+There is some furigana, mostly for some names, but it's not really used outside of that. Most words will not have any furigana at all.
+
+One downside is that aside from some very limited live-action cutscenes with some dialogue, the entire game is completely unvoiced. You have to read everything, including dialogues between characters. I thought it was an odd choice considering how every character is actually played by an actor (real person) and the game leans very much into the live action style.
+
+A strong point for the game is that it has a codex system where it explains a lot of words, sometimes even common everyday words, with a definition that is relevant to the story. It's kind of like its own pop up dictionary inside the game. It's not always there, but when it is I recommend reading it (also it becomes relevant in some puzzles).
