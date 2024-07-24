@@ -66,6 +66,23 @@
         "browsable": true
     },
     {
+        "title": "EVE: Burst Error R",
+        "genre": "visual novel",
+        "difficulty": "average",
+        "furigana": "not supported",
+        "japanese_game": "yes",
+        "pausable_text": "all",
+        "voiced": "partial",
+        "backlog": "full",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co60qe.jpg",
+        "backloggd": "https://www.backloggd.com/games/eve-burst-error-r/",
+        "vndb": "https://vndb.org/v147",
+        "howlongtobeat": "https://howlongtobeat.com/game/18825",
+        "playtime": "long",
+        "notes": "\n\n\nEVE Burst Error R is a remake of an old PC-98 visual novel from 1995. The original game presented adult scenes, but the remake got rid of all of them, however there are still plenty of scenes I wouldn't want to watch in front of my parents. Some characters are often very... scantily clad.\n\n\n\nOverall the game difficulty is that of your average visual novel. Kanji-wise I did not see anything too complicated or hard to read. This is a common sign in older games (or remaster of older games) as they used to use less rare kanji due to font size and memory limitations.\n\n\n\nThis said,  there is no furigana support at all. Some rare words will sometimes have the reading in brackets next to them, but the engine itself does not support furigana.\n\n\n\nThe game is fully voiced for all characters outside of the two main characters. There is this interesting mechanic where the player can swap between the two main characters (each of them having individual storylines that run in parallel and sometimes cross paths), however the really frustrating part is that your other main character will be voiced when they show up in a story portion where you are not controlling them, but will go back to being mute the moment you control them (sometimes in the same scen etoo). I really wish they stuck with having it fully voiced no matter what.\n\n\n\nObviously, narrative sequences are also unvoiced.\n\n\n\nThe game presents itself as some lite point and click adventure game as you move around different areas and pick options to interact with and dialogue trees with various characters. It is not particularly complicated, however I recommend turning on the \"hints\" setting in the options, which will make it clear where you have to go as you transition from area to area. Without that, the game would've felt much more frustrating to navigate for me.\n\n\n\nIn general, if you are okay with an average-difficulty visual novel and are into mystery investigative thriller stories, I think this game would be pretty good for you.\n",
+        "browsable": true
+    },
+    {
         "title": "Final Fantasy VII",
         "genre": "jrpg",
         "difficulty": "average",
