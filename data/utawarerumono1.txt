@@ -1,0 +1,28 @@
+Title Utawarerumono: Prelude to the Fallen
+Genre Visual Novel
+Difficulty Average
+Furigana Partial
+Japanese_Game Yes
+Pausable_Text all
+Voiced partial
+Backlog full
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co1z54.jpg
+Backloggd https://www.backloggd.com/games/utawarerumono-prelude-to-the-fallen/
+Vndb https://vndb.org/v3
+Jpdb https://jpdb.io/visual-novel/3841/utawarerumono
+Howlongtobeat https://howlongtobeat.com/game/78781
+Playtime Long
+
+## Notes
+
+Utawarerumono: Prelude to the Fallen is the first entry in the Utawarerumono series. I strongly recommend new players to the series to start from this, before moving on to the Mask of Deception / Mask of Truth dualogy.
+
+The game is a mix of Visual Novel and turn-based strategy game. This first entry specifically is still towards the more "game" side of things, as the visual novel portions are very dialogue driven with very little descriptions. Most of the scenes are presented from the point of view of the main character and his inner thoughts. This means it's voiced for almost all of the scene, aside from a few rare narrative descriptions which remain unvoiced.
+
+The level of Japanese is not particularly complicated however there are a few things that stand out that I think are worth mentioning.
+
+First, the game makes use of some odd kanji choices. For example it will always use 躰 instead of 身体, and use 判る instead of 分かる, you just have to get used to it. On top of that, there are a lot of really weird katakana words for names and stuff (I think they resemble some Ainu folklore but I am not sure), and those can be quite hard to go through sometimes. It also uses very specific in-universe words with common kanji but weird katakana furigana. It took me a while to remember them and distinguish between them since they are all very similar.
+
+On top of all that, a lot of characters speak in very distinct speech patterns and styles, with sometimes very weird sentence endings that can throw off some less experienced readers.
+
+Still, overall, I think the difficulty is average for an VN mixed with RPG elements and strongly recommend it to anyone who want to get into this series, it's an amazing experience.

@@ -1,0 +1,21 @@
+Title Utawarerumono: Mask of Truth
+Genre Visual Novel
+Difficulty Hard
+Furigana Partial
+Japanese_Game Yes
+Pausable_Text all
+Voiced partial
+Backlog full
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co1w6v.jpg
+Backloggd https://www.backloggd.com/games/utawarerumono-mask-of-truth/
+Vndb https://vndb.org/v18717
+Howlongtobeat https://howlongtobeat.com/game/43228
+Playtime Very Long
+
+## Notes
+
+Utawarerumono: Mask of Truth is the sequel to Utawarerumono: Mask of Deception and the conclusion of the main Utawarerumono trilogy.
+
+It is the second half of the story that follows from Mask of Deception. These two games should be considered pretty much the same as one is a direct continuation. The language is exactly the same and gameplay elements as well.
+
+For this reason, I rate it exactly the same as Mask of Deception. I recommend reading that entry for more details.

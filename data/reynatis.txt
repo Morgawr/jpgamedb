@@ -1,0 +1,30 @@
+Title Reynatis
+Genre JRPG
+Difficulty Average
+Furigana no
+Japanese_Game Yes
+Pausable_Text Some
+Voiced partial
+Backlog No
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co7t22.jpg
+Backloggd https://www.backloggd.com/games/reynatis/
+Howlongtobeat https://howlongtobeat.com/game/145852
+Playtime Average
+
+## Notes
+
+Reynatis is what I like to call B-tier "jankcore" action JRPG. I wouldn't say that the game itself is bad, I enjoyed it more than I thought I would, but it is definitely an acquired taste.
+
+The game becomes enjoyable once you get into the loop of things, however it's full of rough edges and jank game designs at every corner, some of which will also affect how approachable it is for Japanese learners.
+
+There is no backlog whatsoever in the game, even for stuff like side-quest tracking it is hard to look at the progress or where you need to go next. If you misread or skip reading an explanation from an NPC, it can be troublesome sometimes. There are quest markers, but in some situations they disappear or glitch out, and at that point if you missed the initial explanation, looking up a guide is the only way to get you unstuck.
+
+The biggest issue I have with this game, especially as a parent with a toddler who constantly interrupts my gaming sessions, is that you cannot pause cutscenes. The "start" button skips them straight up without warning. So be careful if you try to pause things to look words up or anything like that. You can use the feature on your console (PS5 or Switch) to record the last few seconds of gameplay and re-play the cutscene back if you miss or misunderstand a sentence, but it's a bit of a pain.
+
+An unexpected point of pain for me was also the fact that there's many characters with kanji names and as someone who is not good at reading names it was a bit of a struggle sometimes. Especially when the characters would refer to each other with nicknames or abbreviations, but then have their full name dropped in a dialogue that makes you confused about who they are talking about.
+
+On the other hand, the game has a SNS (social media) chat system where the party members chat with each other after every event in the story and that is absolutely great to pick up some really funny casual Japanese conversations. The jokes and quipping between characters made me laugh more than a couple of times.
+
+The game also has a few collaboration events with other games/franchises (at the time of writing only the TWEWY one is available but I think more are planned). Word of advice: DO NOT start these side-quests until you have finished the main story. I made the mistake of starting it early and it spoiled a few things because the game assumes you've already reached certain parts in the story.
+
+Overall, I think the game's Japanese is not very complicated, there's a few odd and specific words here and there but nothing out of the ordinary. It's decently voice-acted for most of the main story and has a few hiccups in game design and UI that could be better, but I'd say its difficulty is pretty average for a JRPG.

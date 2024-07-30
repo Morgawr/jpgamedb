@@ -1,0 +1,27 @@
+Title Utawarerumono: Mask of Deception
+Genre Visual Novel
+Difficulty Hard
+Furigana Partial
+Japanese_Game Yes
+Pausable_Text all
+Voiced partial
+Backlog full
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co1w6u.jpg
+Backloggd https://www.backloggd.com/games/utawarerumono-mask-of-deception/
+Vndb https://vndb.org/v7721
+Howlongtobeat https://howlongtobeat.com/game/43227
+Playtime Very Long
+
+## Notes
+
+Utawarerumono: Mask of Deception is the sequel to Utawarerumono: Prelude to the Fallen and the first entry in the "Mask" dualogy.
+
+While it is entirely possible to start the series from this entry, as the story is mostly self-contained, I strongly recommend to read Prelude first since the experience will be so much better that way.
+
+All in all, the difficulty is not that different from Prelude and most of the stuff I mentioned about Prelude will apply to this game as well.
+
+The main difference that I noticed is that the writing style changed quite a bit from its predecessor. This one feels much more like a "proper" visual novel. There are a lot more descriptions, narrative parts, and non-voiced portions that are more common to see in visual novels than videogames. Although there are still gameplay elements, they seem much less than in Prelude.
+
+For this reason, and because the length is much longer too, I consider the difficulty to be a bit higher and rate it as "Hard" rather than "Average".
+
+Still, it's probably one of the best visual novels I've ever read and I strongly recommend it. In my opinion it has the absolute most amazing ending of any piece of written media I've ever read and it's totally worth it.

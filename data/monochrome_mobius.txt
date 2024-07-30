@@ -1,0 +1,21 @@
+Title Monochrome Mobius
+Genre JRPG
+Difficulty Average
+Furigana Partial
+Japanese_Game Yes
+Pausable_Text some
+Voiced partial
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co4oxm.jpg
+Backloggd https://www.backloggd.com/games/monochrome-mobius-rights-and-wrongs-forgotten/
+Howlongtobeat https://howlongtobeat.com/game/109901
+Playtime Long
+
+## Notes
+
+Monochrome Mobius is a spin off entry of the Utawarerumono franchise. It tells the story of some of the main cast from Utawarerumono: Mask of Deception and takes place between the ending of Utawarerumono: Prelude to the Fallen and the beginning of Mask of Deception. However, I very strongly recommend playing this only after you have played the mainline Utawarerumono trilogy.
+
+The game spoils a lot of plot elements from the mainline Utawarerumono games, and has so many references and cameos to the main series that would be missed or not enjoyable to those who aren't already fans of the series.
+
+The game itself is not bad, but it's very rough on the edges. It has quite a few interesting gameplay elements, but a lot of it feels a bit janky and not very polished. The story is very enjoyable but I suspect a lot of it is because of the characters who I already grew familiar with thanks to the mainline games. If you just want a JRPG to play and don't care about the franchise, you might end up disappointed with this one.
+
+Similarly to my description of Utawarerumono: Prelude to the Fallen, I'd say the language in this game is of average difficulty for a JRPG. The same worldbuilding elements of the mainline series are present in this one too, including some of the weird kanji, speech quirks, and katakana words.
