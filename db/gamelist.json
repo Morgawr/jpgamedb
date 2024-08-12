@@ -325,6 +325,22 @@
         "browsable": true
     },
     {
+        "title": "Star Ocean: The Divine Force",
+        "genre": "jrpg",
+        "difficulty": "hard",
+        "furigana": "not supported",
+        "japanese_game": "yes",
+        "pausable_text": "some",
+        "voiced": "full",
+        "backlog": "no",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co45km.jpg",
+        "backloggd": "https://www.backloggd.com/games/star-ocean-the-divine-force/",
+        "howlongtobeat": "https://howlongtobeat.com/game/99491",
+        "playtime": "average",
+        "notes": "\n\n\nThe sixth installment of the Star Ocean franchise. At first I was a bit put off by the graphics/visuals and some of the reviews, but honestly once I started playing (and looked past the jank animations and lip syncing), the game was really really fun to play. The story as well was quite enjoyable.\n\n\n\nSpeaking of the story, it touches a lot of complex sci-fi topics with hard sci-fi words. Comparing it to Star Ocean The Second Story R, I'd say this one has much more complex language. On top of that, there is no furigana even for some of the most sci-fi words that are often read in-game with katakana by the voice actors, despite the word being in kanji (for example 艦橋 being pronounced ブリッジ) which can be quite confusing. The strong point though is that it is entirely voiced, including random NPC chatter and side content.\n\n\n\nThere is no backlog and most of the conversations are happening in real time which makes it hard to follow sometimes, but the start button pauses the entire screen (and does not hide or impede the view with any visible pause menu) which makes it easy to look up any words you don't know.\n\n\n\nSome of the private action (think like \"skits\" or side conversations with party members) sometimes require you to choose a (timed) option out of a couple of choices, but in my experience the timing is very generous and the choices don't matter much (aside from some flavor dialogue).\n\n\n\nThe menus aren't very complicated, much simpler than the ones in Star Ocean The Secondy Story R, however the side quests tracking is much more confusing. There is no real indication where you are supposed to go or what to do, and often if you miss the initial conversation with the NPC giving you the quest, it's almost impossible to complete it without looking it up on a guide. Most of quests revolve in just finding some material or item drop from monsters, with no indication where those monsters are or even which monsters they are, sometimes. Personally, I just skipped a lot of the side quests since, with the exception of a couple, they really don't do much and the rewards are laughable.\n\n\n\nAnother very minor complaint is that the UI font often is very small, so people with low resolution/size screen or vision problems might find it hard to play.\n\n\n\nOverall, I'd rate the game's difficulty as \"Hard\". If you have played Star Ocean The Second Story R, I think this one is harder language-wise, but the UI (except for the quest tracking) is much more streamlined and easier to follow. If The Second Story was \"Hard\" close to bieng \"Average\", this one is \"Hard\" close to being \"Very Hard\" in my book, so be aware.\n",
+        "browsable": true
+    },
+    {
         "title": "Star Ocean: The Second Story R",
         "genre": "jrpg",
         "difficulty": "hard",
