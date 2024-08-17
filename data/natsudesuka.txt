@@ -1,0 +1,22 @@
+Title 探しものは、夏ですか。
+Genre Visual Novel
+Difficulty Average
+Furigana Partial
+Japanese_Game Yes
+Pausable_Text all
+Voiced partial
+Backlog full
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co70hw.jpg
+Backloggd https://www.backloggd.com/games/sagashimono-ha-natsu-desuka/
+Vndb https://vndb.org/v35853
+Playtime Short
+
+## Notes
+
+This is a nice and comfy visual novel, it takes place during the tanabata summer festival in the week of obon (although usually tanabata takes place in July in most of Japan but... idk I don't make the rules). If you like the style and aura of comfy countryside Japan with a pseudo-amnesiac main character who re-explores some forgotten aspects of his childhood, this will be a good vibe for you. The story becomes more involved and serious later and there are some plot twists that add on to the genre but I won't spoil them here, play the game to find out.
+
+It is a fairly short visual novel, I clocked about 10 hours and devoured it in just a couple of days, and I'm usually a slow visual novel reader.
+
+The VN has full backlog support and you can go back to any scene at any point in time as the game presents a clearly laid out grid of events with multiple choices which you will have to go through and clear if you want to get to the real ending. All dialogues are voiced, including the main protagonist, and the only unvoiced parts are the narrator (as is usual in most VNs).
+
+It also makes quite generous use of furigana for most uncommon words, and even for some fairly common words that might still trip up some younger (native) readers. Overall the language is not particularly hard and the word choice is pleasant to read.

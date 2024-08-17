@@ -1,0 +1,23 @@
+Title 失楽園カルタ
+Genre Visual Novel
+Difficulty Hard
+Furigana no
+Japanese_Game Yes
+Pausable_Text All
+Voiced partial
+Backlog full
+Image https://t.vndb.org/cv/09/87209.jpg
+Vndb https://vndb.org/v50460
+Playtime Short
+
+## Notes
+
+Karuta is a doujin (= amateur developed) VN and it shows. The game is not listed in many websites and while I played it on Steam, it was a fairly buggy experience. At least at the time of writing, there was a bug where the game just would not download from the Steam servers. And even if you managed to, you would often be met with chinese fonts as the game didn't ship with the proper fonts (I had to manually download and install a specific font myself).
+
+After all the initial struggles of getting the game to run, I'd say it was relatively enjoyable although kinda short. I found the game's story to be a bit confusing but basically it is the story of some guy attempting suicide and a group of shinigami that appear near people who are about to die and grant them one wish before they die. It is a collection of short stories of such situations, that eventually converge into a single main narrative thread.
+
+The language itself is not particularly complicated, however the lack of furigana, the hard-to-read pixelated font, and the fact that the story is narrated in a very convoluted way makes this a relatively "Hard" game to me. I admit I did not fully understand a lot of the plot points that were presented to me. The narrative thread is also not chronologically linear which makes it harder to follow.
+
+Surprisingly for a low budget indie game, the game is fully voiced (minus narration) with a really good soundtrack and the pixelated art has a very charming style. The backlog feature shows previously-seen sentences as you read, however it does not replay the audio and it gets wiped clean upon reloading.
+
+The UI can be quite confusing as it took me a while to figure out how to save and load the game. Hint: there is a bunny-looking character at the bottom right of the screen you can click on to open the save/load menu, which is different from the usual settings menu. Also, it doesn't seem to support steam cloud saves which is annoying if you were planning to cross-play between PC and steam deck (like I often do).

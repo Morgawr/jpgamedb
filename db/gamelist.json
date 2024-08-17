@@ -710,5 +710,36 @@
         "playtime": "average",
         "notes": "\n\n\nThis is the sequel to Yakuza Kiwami 1. It does not differ much from the first one, language-wise, and I recommend you play that one first (and Yakuza 0 too while you're at it). The difficulty is about the same.\n",
         "browsable": true
+    },
+    {
+        "title": "失楽園カルタ",
+        "genre": "visual novel",
+        "difficulty": "hard",
+        "furigana": "no",
+        "japanese_game": "yes",
+        "pausable_text": "all",
+        "voiced": "partial",
+        "backlog": "full",
+        "image": "https://t.vndb.org/cv/09/87209.jpg",
+        "vndb": "https://vndb.org/v50460",
+        "playtime": "short",
+        "notes": "\n\n\nKaruta is a doujin (= amateur developed) VN and it shows. The game is not listed in many websites and while I played it on Steam, it was a fairly buggy experience. At least at the time of writing, there was a bug where the game just would not download from the Steam servers. And even if you managed to, you would often be met with chinese fonts as the game didn't ship with the proper fonts (I had to manually download and install a specific font myself).\n\n\n\nAfter all the initial struggles of getting the game to run, I'd say it was relatively enjoyable although kinda short. I found the game's story to be a bit confusing but basically it is the story of some guy attempting suicide and a group of shinigami that appear near people who are about to die and grant them one wish before they die. It is a collection of short stories of such situations, that eventually converge into a single main narrative thread.\n\n\n\nThe language itself is not particularly complicated, however the lack of furigana, the hard-to-read pixelated font, and the fact that the story is narrated in a very convoluted way makes this a relatively \"Hard\" game to me. I admit I did not fully understand a lot of the plot points that were presented to me. The narrative thread is also not chronologically linear which makes it harder to follow.\n\n\n\nSurprisingly for a low budget indie game, the game is fully voiced (minus narration) with a really good soundtrack and the pixelated art has a very charming style. The backlog feature shows previously-seen sentences as you read, however it does not replay the audio and it gets wiped clean upon reloading.\n\n\n\nThe UI can be quite confusing as it took me a while to figure out how to save and load the game. Hint: there is a bunny-looking character at the bottom right of the screen you can click on to open the save/load menu, which is different from the usual settings menu. Also, it doesn't seem to support steam cloud saves which is annoying if you were planning to cross-play between PC and steam deck (like I often do).\n",
+        "browsable": true
+    },
+    {
+        "title": "探しものは、夏ですか。",
+        "genre": "visual novel",
+        "difficulty": "average",
+        "furigana": "partial",
+        "japanese_game": "yes",
+        "pausable_text": "all",
+        "voiced": "partial",
+        "backlog": "full",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co70hw.jpg",
+        "backloggd": "https://www.backloggd.com/games/sagashimono-ha-natsu-desuka/",
+        "vndb": "https://vndb.org/v35853",
+        "playtime": "short",
+        "notes": "\n\n\nThis is a nice and comfy visual novel, it takes place during the tanabata summer festival in the week of obon (although usually tanabata takes place in July in most of Japan but... idk I don't make the rules). If you like the style and aura of comfy countryside Japan with a pseudo-amnesiac main character who re-explores some forgotten aspects of his childhood, this will be a good vibe for you. The story becomes more involved and serious later and there are some plot twists that add on to the genre but I won't spoil them here, play the game to find out.\n\n\n\nIt is a fairly short visual novel, I clocked about 10 hours and devoured it in just a couple of days, and I'm usually a slow visual novel reader.\n\n\n\nThe VN has full backlog support and you can go back to any scene at any point in time as the game presents a clearly laid out grid of events with multiple choices which you will have to go through and clear if you want to get to the real ending. All dialogues are voiced, including the main protagonist, and the only unvoiced parts are the narrator (as is usual in most VNs).\n\n\n\nIt also makes quite generous use of furigana for most uncommon words, and even for some fairly common words that might still trip up some younger (native) readers. Overall the language is not particularly hard and the word choice is pleasant to read.\n",
+        "browsable": true
     }
 ]
