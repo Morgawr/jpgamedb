@@ -51,6 +51,22 @@
         "browsable": true
     },
     {
+        "title": "Diablo IV",
+        "genre": "dungeon crawler",
+        "difficulty": "hard",
+        "furigana": "no",
+        "japanese_game": "no",
+        "pausable_text": "no",
+        "voiced": "full",
+        "backlog": "no",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co69sm.jpg",
+        "backloggd": "https://www.backloggd.com/games/diablo-iv/",
+        "howlongtobeat": "https://howlongtobeat.com/game/71960",
+        "playtime": "unknown",
+        "notes": "\n\n\nWhen you think about games to play in Japanese, Diablo 4 probably is not up there in the list, is it? And yet, I'm genuinely surprised at how nice it plays even in Japanese. Clearly, the game is not from a Japanese developer and has been translated from English, and it shows, but the translation is actually quite decent.\n\n\n\nThere are some hints that the game has been translated, lots of sentences with explicit pronouns like 彼は and 奴は which would be written very differently were they originally in Japanese, but overall the translation is really solid. The voice acting as well shows signs of typical western game translated to Japanese. There's a specific inflection and type of voice actor that seems to get hired for these games and you can usually tell that they aren't playing the role of a \"Japanese speaker\" but rather a \"translated westerner\" or something like that. This said, I think even for a learner it's a really fun experience.\n\n\n\nSpeaking of voice acting, the game is fully voiced, which is pretty amazing. All NPCs have voiced dialogue lines, and the only unvoiced parts are item and skill descriptions.\n\n\n\nThe language itself is a bit complicated, as is usual for this kind of \"mature\" RPG. Especially dealing with all the skills and item descriptions and abilities can feel very overwhelming. There's a lot of stuff to read with very specific vocab specific to the game mechanics themselves.\n\n\n\nFor this reason, I consider it \"hard\".\n",
+        "browsable": true
+    },
+    {
         "title": "Dragon Quest X Offline",
         "genre": "jrpg",
         "difficulty": "easy",
