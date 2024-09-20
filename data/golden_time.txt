@@ -1,0 +1,24 @@
+Title Golden Time: Vivid Memories
+Genre Visual Novel
+Difficulty Average
+Furigana No
+Japanese_Game Yes
+Pausable_Text Some
+Voiced partial
+Backlog full
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co60r9.jpg
+Backloggd https://www.backloggd.com/games/golden-time-vivid-memories/
+Vndb https://vndb.org/v13989
+Playtime Average
+
+## Notes
+
+Golden Time: Vivid Memories is a PSVita exclusive visual novel that recounts the same story as the Golden Time anime (adapted from the light novel of the same name), except it adds multiple routes with different characters. It is a classic affection "point-based" visual novel where every day you have multiple choices and encounters/events to make and doing so will increase certain affection points for each character, which in turn will lock you into specific routes. There are around 20 endings, but only two "true" endings (depending on which direction you choose) which will only unlock after you have played two other major routes.
+
+Personally, I really enjoyed all the routes and all the endings, so I think it's worth it to explore as many as you can, as they aren't particularly long.
+
+From a language point of view, a very strong point for this VN is how approachable it is. It is very dialogue-oriented with zero descriptions or narrative sequences, most of the descriptions happen as internal thoughts from the main character, and the player can just focus on having conversations with the various characters. All dialogues are also voiced, and even some narrative sequences are voiced due to story reasons. The only unvoiced parts include the inner thoughts of the main character.
+
+There are some minigames, and one specifically requires you to read dialogues in real time and tap on specific words. This raises the difficulty quite a bit, but there are not many of these events and if you play with a guide (which in my opinion you should after having experienced one ending, to reach all the others) you can just look at the right words to tap. This said, it still requires to follow along real time unpausable scrolling text, which is not ideal. But these parts are very minimal.
+
+I was very tempted to put this VN in the "Easy" category but due to this minigame mechanic, I'd say it's more appropriate as "Average" difficulty. Just be aware that it's very borderline and it's what I'd consider an excellent first-time VN.
