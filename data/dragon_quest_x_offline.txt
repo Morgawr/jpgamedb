@@ -1,7 +1,7 @@
 Title Dragon Quest X Offline
 Genre JRPG
 Difficulty easy
-Furigana Partial
+Furigana Sometimes
 Japanese_Game Yes
 Pausable_Text some
 Voiced No

@@ -1,7 +1,7 @@
 Title Utawarerumono: Mask of Truth
 Genre Visual Novel
 Difficulty Hard
-Furigana Partial
+Furigana Sometimes
 Japanese_Game Yes
 Pausable_Text all
 Voiced partial

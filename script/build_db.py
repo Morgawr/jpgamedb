@@ -69,7 +69,7 @@ class Furigana(BaseEnum):
     KANA_MODE = "kana mode"
     MOSTLY_NO = "mostly no"
     NO = "no"
-    PARTIAL = "partial"
+    SOMETIMES = "sometimes"
     FULL = "full"
     UNKNOWN = "unknown"
 

@@ -1,7 +1,7 @@
 Title 428: Shibuya Scramble
 Genre visual novel
 Difficulty average
-Furigana Partial
+Furigana Sometimes
 Japanese_Game Yes
 Pausable_Text All
 Voiced No

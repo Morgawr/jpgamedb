@@ -1,7 +1,7 @@
 Title Monochrome Mobius
 Genre JRPG
 Difficulty Average
-Furigana Partial
+Furigana Sometimes
 Japanese_Game Yes
 Pausable_Text some
 Voiced partial

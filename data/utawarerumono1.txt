@@ -1,7 +1,7 @@
 Title Utawarerumono: Prelude to the Fallen
 Genre Visual Novel
 Difficulty Average
-Furigana Partial
+Furigana Sometimes
 Japanese_Game Yes
 Pausable_Text all
 Voiced partial
