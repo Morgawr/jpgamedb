@@ -643,6 +643,22 @@
         "browsable": true
     },
     {
+        "title": "The Plucky Squire",
+        "genre": "adventure",
+        "difficulty": "average",
+        "furigana": "no",
+        "japanese_game": "no",
+        "pausable_text": "some",
+        "voiced": "partial",
+        "backlog": "no",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6z44.jpg",
+        "backloggd": "https://www.backloggd.com/games/the-plucky-squire/",
+        "howlongtobeat": "https://howlongtobeat.com/game/109109",
+        "playtime": "short",
+        "notes": "\n\n\nThe Plucky Squire is a very charming game when it comes to looks, the artstyle and graphics are really nice. The gameplay is a mix of puzzle and action, and it's interesting how despite being a translated (English originally) game, it maintains the right level of charm with some of the word-based puzzles and word puns in the story.\n\n\n\nUnfortunately, I was very surprised to find out that while the game looks like a typical kid-friendly game, the actual language used in the Japanese version is not quite at that level. It is not hard by any mean, but it's definitely not for young kids. It makes free use of kanji and has no furigana whatsoever.\n\n\n\nMost of the text is pausable dialogues, however there are quite a bit of scenes where there is unpausable text (mostly narrator sequences, but also some random dialogue boxes that are definitely too fast to read even for a native speaker) which can be annoying. All of the narrator sequences are fully voiced, which is nice, but most of the game is not. The voice of the narrator is nice but often feels rushed and the text goes by a bit too fast, which raises its difficulty.\n\n\n\nThere are a few signs here and there that point to this not being a Japanese native game, including some textboxes which fail to contain some of the text, and some awkward translations here and there (although the language overall is fine). There are also some obvious missed puns that I think would have been pretty cool to see in Japanese, but the translators didn't make any use of it. For example, there are snake enemies in an area full of \"heavy metal\" puns and nobody cared to make a ヘビ・メタル pun. Sad.\n\n\n\nOverall, while I wouldn't recommend necessarily to play translated games if you're a beginner, I'd say this game can be somewhat enjoyable, as long as you can put up with the random oddities here and there. It looks easy on the surface, but a few of the points I mentioned make it harder than it needs to be, for this reason I consider it to be a game of Average difficulty.\n",
+        "browsable": true
+    },
+    {
         "title": "Utawarerumono: Mask of Deception",
         "genre": "visual novel",
         "difficulty": "hard",
@@ -758,6 +774,23 @@
         "howlongtobeat": "https://howlongtobeat.com/game/49620",
         "playtime": "average",
         "notes": "\n\n\nThis is the sequel to Yakuza Kiwami 1. It does not differ much from the first one, language-wise, and I recommend you play that one first (and Yakuza 0 too while you're at it). The difficulty is about the same.\n",
+        "browsable": true
+    },
+    {
+        "title": "一緒に行きましょう逝きましょう生きましょう",
+        "genre": "visual novel",
+        "difficulty": "average",
+        "furigana": "sometimes",
+        "japanese_game": "yes",
+        "pausable_text": "all",
+        "voiced": "partial",
+        "backlog": "full",
+        "image": "https://t.vndb.org/cv/64/81164.jpg",
+        "backloggd": "https://www.backloggd.com/games/together-we-live/",
+        "vndb": "https://vndb.org/v18915",
+        "howlongtobeat": "https://howlongtobeat.com/game/91333",
+        "playtime": "average",
+        "notes": "\n\n\nThis visual novel is very simple and straightforward. It is a kinetic novel, so you can just enjoy the story without having to worry about choices. The roster of characters is very limited, including mainly just the protagonist and the little girl as they go experience a post apocalyptic world together. The only voiced character is the little girl, as there is no other voiced line in the game. Both the main character and the narration are unvoiced.\n\n\n\nThe language in the game is not necessarily easy, but it is fairly simple and makes plenty of use of furigana even on words that I'd consider to be pretty common. It also offers a full backlog (as is normal in most VNs), however the furigana is not present in it.\n\n\n\nThere's really not much to say beyond this. I was tempted to put it in the \"Easy\" language category, but thinking about how many unvoiced sentences there are (there is quite a bit of narration and internal thoughts from the main character), I think it's fair to bump this up to barely \"Average\" in difficulty.\n\n\n\nI would consider it a decent entry point for people willing to get into the genre. Another similar VN is Stella of the End, however that one definitely has much harder language.\n",
         "browsable": true
     },
     {

@@ -1,0 +1,23 @@
+Title 一緒に行きましょう逝きましょう生きましょう
+Genre Visual Novel
+Difficulty Average
+Furigana sometimes
+Japanese_Game Yes
+Pausable_Text all
+Voiced partial
+Backlog full
+Image https://t.vndb.org/cv/64/81164.jpg
+Backloggd https://www.backloggd.com/games/together-we-live/
+Vndb https://vndb.org/v18915
+Howlongtobeat https://howlongtobeat.com/game/91333
+Playtime Average
+
+## Notes
+
+This visual novel is very simple and straightforward. It is a kinetic novel, so you can just enjoy the story without having to worry about choices. The roster of characters is very limited, including mainly just the protagonist and the little girl as they go experience a post apocalyptic world together. The only voiced character is the little girl, as there is no other voiced line in the game. Both the main character and the narration are unvoiced.
+
+The language in the game is not necessarily easy, but it is fairly simple and makes plenty of use of furigana even on words that I'd consider to be pretty common. It also offers a full backlog (as is normal in most VNs), however the furigana is not present in it.
+
+There's really not much to say beyond this. I was tempted to put it in the "Easy" language category, but thinking about how many unvoiced sentences there are (there is quite a bit of narration and internal thoughts from the main character), I think it's fair to bump this up to barely "Average" in difficulty.
+
+I would consider it a decent entry point for people willing to get into the genre. Another similar VN is Stella of the End, however that one definitely has much harder language.

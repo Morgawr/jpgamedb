@@ -1,0 +1,24 @@
+Title The Plucky Squire
+Genre Adventure
+Difficulty Average
+Furigana No
+Japanese_Game No
+Pausable_Text Some
+Voiced Partial
+Backlog No
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co6z44.jpg
+Backloggd https://www.backloggd.com/games/the-plucky-squire/
+Howlongtobeat https://howlongtobeat.com/game/109109
+Playtime Short
+
+## Notes
+
+The Plucky Squire is a very charming game when it comes to looks, the artstyle and graphics are really nice. The gameplay is a mix of puzzle and action, and it's interesting how despite being a translated (English originally) game, it maintains the right level of charm with some of the word-based puzzles and word puns in the story.
+
+Unfortunately, I was very surprised to find out that while the game looks like a typical kid-friendly game, the actual language used in the Japanese version is not quite at that level. It is not hard by any mean, but it's definitely not for young kids. It makes free use of kanji and has no furigana whatsoever.
+
+Most of the text is pausable dialogues, however there are quite a bit of scenes where there is unpausable text (mostly narrator sequences, but also some random dialogue boxes that are definitely too fast to read even for a native speaker) which can be annoying. All of the narrator sequences are fully voiced, which is nice, but most of the game is not. The voice of the narrator is nice but often feels rushed and the text goes by a bit too fast, which raises its difficulty.
+
+There are a few signs here and there that point to this not being a Japanese native game, including some textboxes which fail to contain some of the text, and some awkward translations here and there (although the language overall is fine). There are also some obvious missed puns that I think would have been pretty cool to see in Japanese, but the translators didn't make any use of it. For example, there are snake enemies in an area full of "heavy metal" puns and nobody cared to make a ヘビ・メタル pun. Sad.
+
+Overall, while I wouldn't recommend necessarily to play translated games if you're a beginner, I'd say this game can be somewhat enjoyable, as long as you can put up with the random oddities here and there. It looks easy on the surface, but a few of the points I mentioned make it harder than it needs to be, for this reason I consider it to be a game of Average difficulty.
