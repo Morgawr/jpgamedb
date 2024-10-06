@@ -1,0 +1,28 @@
+Title Famicom Detective Club: The Missing Heir
+Genre Visual Novel
+Difficulty Easy
+Furigana full
+Japanese_Game Yes
+Pausable_Text all
+Voiced full
+Backlog full
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co30df.jpg
+Backloggd https://www.backloggd.com/games/famicom-detective-club-the-missing-heir/
+Vndb https://vndb.org/v3433
+Howlongtobeat https://howlongtobeat.com/game/88759
+Playtime Short
+Certified yes
+
+## Notes
+
+This is the first game in the Famicom Detective Club trilogy. The first two games are a remastered version of the original dualogy on NES (hence the title), re-released on Nintendo Switch.
+
+The quality of the remaster is amazing, as it features full voices (including the protagonist) and gorgeous animated art.
+
+The player takes the role of a detective trying to solve a case, as they go around interviewing people, finding clues, examining areas, and exploring the crime scene. While the game itself is fairly interactive, there is no room for error as it is impossible to make a mistake and get a game over. Despite the game being close to a point and click adventure game, the structure is closer to that of a linear visual novel.
+
+It is an ideal game for a beginner willing to get into visual novels and point and click games, because even if you get lost in the plot, it is hard to "mess up". However, a lot of the logic in the game is very frustrating as you have to often interview people multiple times and cycle different dialogue options (often even unrelated ones) until you trigger the right dialogue tree to advance the story. This makes it so that a lot of scenarios are just pure brute-forcing to advance the plot. For this reason I recommend playing with a guide as it will be less frustrating while still not detracting from the experience of reading the story.
+
+While the language in this game is not particularly easy, it's not particularly hard either. Normally, I'd have flagged this as an "Average" visual novel in difficulty, however the entire game features full furigana and full voice acting which brings down the complexity by a lot.
+
+If I had to recommend one game to someone who wanted to get into Visual Novels and interactive adventure games, this would be it.
