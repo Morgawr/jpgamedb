@@ -46,16 +46,21 @@ function show_entry(entry) {
     if (k == 'difficulty') {
       column.classList.add(entry[k].split(' ').join('_'));
     }
-    column.appendChild(document.createTextNode(entry[k]));
+    if (k == 'title' && entry['certified']) {
+      let column_container = document.createElement('div');
+      let seal = document.createElement('img');
+      seal.src = 'res/certified.png';
+      seal.id = 'seal';
+      seal.alt = 'Morg Certified';
+      column_container.appendChild(seal);
+      column_container.appendChild(document.createTextNode(entry[k]));
+      column.appendChild(column_container);
+    } else {
+      column.appendChild(document.createTextNode(entry[k]));
+    }
     data.appendChild(column);
   });
   data.classList.add("game_entry");
-  //let column = document.createElement("td");
-  //column.classList.add("invisible");
-  //column.innerHTML += "<a href=game.html?title="
-  //  + encodeURIComponent(entry['title'])
-  //  + "><img src='res/details_label.png' id='details_label' /></a>";
-  //data.appendChild(column);
   data.onclick = function() { go_to_entry(entry['title']) }
   return data
 }

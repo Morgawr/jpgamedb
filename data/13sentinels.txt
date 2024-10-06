@@ -10,6 +10,7 @@ Image https://images.igdb.com/igdb/image/upload/t_cover_big/co2uls.jpg
 Backloggd https://www.backloggd.com/games/13-sentinels-aegis-rim/
 Howlongtobeat https://howlongtobeat.com/game/30314
 Playtime Average
+Certified Yes
 
 ## Notes
 

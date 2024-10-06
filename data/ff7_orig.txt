@@ -10,6 +10,7 @@ Image https://images.igdb.com/igdb/image/upload/t_cover_big/co2kx2.jpg
 Backloggd https://www.backloggd.com/games/final-fantasy-vii/
 Howlongtobeat https://howlongtobeat.com/game/3521
 Playtime long
+Certified Yes
 
 ## Notes
 

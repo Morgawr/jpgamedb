@@ -17,6 +17,18 @@
   }
 }
 
+#cover_container {
+  position: relative;
+}
+
+#seal {
+  width: 100px;
+  position: absolute;
+  top: -25px;
+  left: -25px;
+  transform: rotate(-20deg);
+}
+
 table {
   width: 100%;
 }

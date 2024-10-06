@@ -12,6 +12,7 @@ Vndb https://vndb.org/v3770
 Jpdb https://jpdb.io/visual-novel/963/aiyoku-no-eustia
 Howlongtobeat https://howlongtobeat.com/game/63184
 Playtime Long
+Certified yes
 
 ## Notes
 

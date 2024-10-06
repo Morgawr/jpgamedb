@@ -44,18 +44,29 @@ function create_link(entry, tag, name) {
   return link;
 }
 
+function add_certified_seal() {
+  let cover_container = document.getElementById('cover_container');
+  let seal = document.createElement('img');
+  seal.src = 'res/certified.png';
+  seal.id = 'seal';
+  cover_container.appendChild(seal);
+}
+
 function populate_page() {
   const entry = get_game_from_query();
   document.getElementById('title').innerHTML = entry['title'];
   let left = document.getElementById('left');
+  let cover_container = document.createElement('div');
   let cover = document.createElement('img');
+  cover_container.id = 'cover_container';
   if (entry['image']) {
     cover.src = entry['image'];
   } else {
     cover.src = 'res/cover_art_not_found.png';
   }
   cover.width = '300';
-  left.appendChild(cover);
+  cover_container.appendChild(cover);
+  left.appendChild(cover_container);
 
   // TODO: refactor these extra cards
   if (entry['backloggd']) {
@@ -72,6 +83,10 @@ function populate_page() {
 
   if (entry['jpdb']) {
     left.appendChild(create_link(entry, 'jpdb', 'JPDB.io'));
+  }
+
+  if (entry['certified']) {
+    add_certified_seal();
   }
 
   TABLE_ENTRIES.forEach((name) => {

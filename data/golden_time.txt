@@ -10,6 +10,7 @@ Image https://images.igdb.com/igdb/image/upload/t_cover_big/co60r9.jpg
 Backloggd https://www.backloggd.com/games/golden-time-vivid-memories/
 Vndb https://vndb.org/v13989
 Playtime Average
+Certified yes
 
 ## Notes
 

@@ -119,10 +119,15 @@ def load_game_entry(input: str) -> Tuple[str, Dict[str, str]]:
     in_notes = False
     notes = ""
     data = {}
+    certified = False
     for line in open(input, "r").readlines():
         count += 1
         if in_notes:
             notes += ("\n" + line)
+            continue
+        if (line.lower().startswith("certified") and
+            line.split()[1].lower() == "yes"):
+            certified = True
             continue
         if line.startswith("## Notes"):
             in_notes = True
@@ -145,6 +150,7 @@ def load_game_entry(input: str) -> Tuple[str, Dict[str, str]]:
     for tag in ENUM_MAPPING.keys():
         if tag.value not in data:
             data[tag.value] = ENUM_MAPPING[tag]("unknown").value
+    data["certified"] = certified
     data["notes"] = notes
     # This is a hack to allow us to index any title in the UI
     data["browsable"] = True

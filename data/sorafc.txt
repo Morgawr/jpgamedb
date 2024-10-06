@@ -11,6 +11,7 @@ Backloggd https://www.backloggd.com/games/the-legend-of-heroes-trails-in-the-sky
 Jpdb https://jpdb.io/video-game/5316/trails-in-the-sky
 Howlongtobeat https://howlongtobeat.com/game/10011
 Playtime Long
+Certified yes
 
 ## Notes
 
