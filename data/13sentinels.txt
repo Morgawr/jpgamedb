@@ -22,6 +22,6 @@ It has some combat portions as in some parts it becomes a fully fledged real tim
 
 The dialogue in this game is for the most part "pausable" as it waits for your input to continue, so you can read it somewhat leisurely, however there are some parts that are somewhat "timed". This is because as you proceed through dialogues, there sometimes are some other scenes happening in the background as other characters go do their own things, and if you don't read fast enough and interact with them before they are gone, you will get locked into a specific route. But the game makes it easy enough to go back and retry, so I wouldn't worry too much about it.
 
-The ending dialogue, however, is completely unpausable and I found it a bit frustrating. There's a bit of lore dump as you get explained a lot of crucial parts of the plot with some complex words and you cannot pause it, but overall it's not too bad if you managed to get that far.
+In the ending dialogue there is a sequence of seemingly non-pausable dialogue, however it can be paused by opening the log, so you can still follow the complicated infodump if you need to. There's a bit of lore dump as you get explained a lot of crucial parts of the plot with some complex words and it's not immediately clear that you can pause it that way, so it's good to keep in mind.
 
 Overall, the lack of furigana hurts a bit, but the fact that the game is entirely voiced and aside a few sci-fi terms sprinkled throughout the story, I'd say the language difficulty is pretty average for this kind of adventure game.

@@ -13,7 +13,7 @@
         "howlongtobeat": "https://howlongtobeat.com/game/30314",
         "playtime": "average",
         "certified": true,
-        "notes": "\n\n\nThe game is an absolute masterpiece of narrative and will keep you glued to the story until the very end (at least it did for me). I consider it the equivalent of \"one more turn\" memes from the Civilization strategy games, except in an adventure form (\"one more dialogue\").\n\n\n\nWhile the game itself presents a story that is very convoluted and shown from the point of view of many characters (of which the player can decide the playthrough order), in reality the game does a very good job at presenting it in a very linear fashion. Chronologically, it can get very confusing to know who did what in which order but it's part of the charm of the game, and even if you don't fully understand all details of the story you can still more or less easily navigate the scenarios and reach the end without getting stuck.\n\n\n\nIt has some combat portions as in some parts it becomes a fully fledged real time tower-defense-like game, and at that point I felt like the difficulty in the language spiked quite a bit. There are a lot of skills, a lot of upgrade systems, a lot of mechanics, and overall I did not personally find that part very enjoyable. For that reason I just played it on \"casual\" difficulty so I could focus on the story which is what interested me the most. If you are like me and struggle with the battle parts, I recommend doing the same as you won't regret it.\n\n\n\nThe dialogue in this game is for the most part \"pausable\" as it waits for your input to continue, so you can read it somewhat leisurely, however there are some parts that are somewhat \"timed\". This is because as you proceed through dialogues, there sometimes are some other scenes happening in the background as other characters go do their own things, and if you don't read fast enough and interact with them before they are gone, you will get locked into a specific route. But the game makes it easy enough to go back and retry, so I wouldn't worry too much about it.\n\n\n\nThe ending dialogue, however, is completely unpausable and I found it a bit frustrating. There's a bit of lore dump as you get explained a lot of crucial parts of the plot with some complex words and you cannot pause it, but overall it's not too bad if you managed to get that far.\n\n\n\nOverall, the lack of furigana hurts a bit, but the fact that the game is entirely voiced and aside a few sci-fi terms sprinkled throughout the story, I'd say the language difficulty is pretty average for this kind of adventure game.\n",
+        "notes": "\n\n\nThe game is an absolute masterpiece of narrative and will keep you glued to the story until the very end (at least it did for me). I consider it the equivalent of \"one more turn\" memes from the Civilization strategy games, except in an adventure form (\"one more dialogue\").\n\n\n\nWhile the game itself presents a story that is very convoluted and shown from the point of view of many characters (of which the player can decide the playthrough order), in reality the game does a very good job at presenting it in a very linear fashion. Chronologically, it can get very confusing to know who did what in which order but it's part of the charm of the game, and even if you don't fully understand all details of the story you can still more or less easily navigate the scenarios and reach the end without getting stuck.\n\n\n\nIt has some combat portions as in some parts it becomes a fully fledged real time tower-defense-like game, and at that point I felt like the difficulty in the language spiked quite a bit. There are a lot of skills, a lot of upgrade systems, a lot of mechanics, and overall I did not personally find that part very enjoyable. For that reason I just played it on \"casual\" difficulty so I could focus on the story which is what interested me the most. If you are like me and struggle with the battle parts, I recommend doing the same as you won't regret it.\n\n\n\nThe dialogue in this game is for the most part \"pausable\" as it waits for your input to continue, so you can read it somewhat leisurely, however there are some parts that are somewhat \"timed\". This is because as you proceed through dialogues, there sometimes are some other scenes happening in the background as other characters go do their own things, and if you don't read fast enough and interact with them before they are gone, you will get locked into a specific route. But the game makes it easy enough to go back and retry, so I wouldn't worry too much about it.\n\n\n\nIn the ending dialogue there is a sequence of seemingly non-pausable dialogue, however it can be paused by opening the log, so you can still follow the complicated infodump if you need to. There's a bit of lore dump as you get explained a lot of crucial parts of the plot with some complex words and it's not immediately clear that you can pause it that way, so it's good to keep in mind.\n\n\n\nOverall, the lack of furigana hurts a bit, but the fact that the game is entirely voiced and aside a few sci-fi terms sprinkled throughout the story, I'd say the language difficulty is pretty average for this kind of adventure game.\n",
         "browsable": true
     },
     {
@@ -51,6 +51,23 @@
         "playtime": "long",
         "certified": true,
         "notes": "\n\n\nEustia is probably one of the most widely acclaimed VNs out there. If you are into dark fantasy stories and want some real good time with some enthralling story, this is the VN for you. I'm still riding on the high of this narration and I wish more VNs were like this. As someone who does not enjoy slice of life and time wastes with filler events in VNs, Eustia hit all the right spots for me.\n\n\n\nLanguage-wise, I was conflicted on whether to consider it \"average\" or \"hard\". I opted to go with \"average\" because realistically speaking the level of language used in it is not that different from most average VNs, however as a beginner I remember struggling quite a bit with it and I had to postpone it and come back to it after a few years.\n\n\n\nThe VN is mostly voiced for all dialogues (including the protagonist), however as is usual for the majority of VNs, it doesn't have voices for narration.\n\n\n\nThere is some furigana mostly used for made-up words, ornamental purposes, and for the occasional rare kanji vocab.\n\n\n\nKanji-wise, it sometimes uses alternative forms for some words (like 水甕 instead of 水瓶) but for the most part it's relatively straightforward.\n",
+        "browsable": true
+    },
+    {
+        "title": "Crystar",
+        "genre": "jrpg",
+        "difficulty": "average",
+        "furigana": "mostly no",
+        "japanese_game": "yes",
+        "pausable_text": "some",
+        "voiced": "full",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1m92.jpg",
+        "backloggd": "https://www.backloggd.com/games/crystar/",
+        "howlongtobeat": "https://howlongtobeat.com/game/62343",
+        "playtime": "average",
+        "backlog": "unknown",
+        "certified": false,
+        "notes": "\n\n\nCrystar is the perfect example of a B-tier action JRPG. Gameplay-wise, it is a rather low-budget \"jank-core\" type of game. Most of the quality and attention in the game has gone to the story, introduction cinematic/opening, and voice acting. I have to admit I am not a fan of the gameplay which overstays its welcome and also was not particularly enjoyable. The game will have you go through many copy-pasted areas multiple times with HP-sponge enemies with a very clunky combat system.\n\n\n\nIf you like playing games for the story, you might enjoy the story in this one, but be aware that most of your time will be spent mindlessly whacking at the same palette-swapped enemy type with relatively little variation.\n\n\n\nOn top of that, there is a specific plot device that will have you go through multiple \"endings\" until you achieve the real ending, and that involves having to replay the same 2-3 chapters multiple times with some variation in dialogue. Gameplay-wise this was a bit of a slogfest to me, but language learning-wise it can be very useful to allow you to re-play parts you already experienced and possibly catch stuff you might have missed before.\n\n\n\nThe language is average leaning towards the easier side. There are only a few instances of furigana mostly used as ateji, so you should not rely on it.\n",
         "browsable": true
     },
     {
@@ -465,6 +482,23 @@
         "furigana": "unknown",
         "certified": false,
         "notes": "\n\n\nThe game has a decent amount of sci-fi technical language, but overall I did not find it particularly hard to follow. All dialogues are voiced but the narration parts are not, which is par of the course for visual novels anyway. Difficulty wise I'd say this is about average.\n",
+        "browsable": true
+    },
+    {
+        "title": "The Legend of Heroes: Kai no Kiseki - Farewell, O Zemuria",
+        "genre": "jrpg",
+        "difficulty": "hard",
+        "furigana": "mostly no",
+        "japanese_game": "yes",
+        "pausable_text": "some",
+        "voiced": "partial",
+        "backlog": "partial",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8jaj.jpg",
+        "backloggd": "https://www.backloggd.com/games/the-legend-of-heroes-kai-no-kiseki-farewell-o-zemuria/",
+        "howlongtobeat": "https://howlongtobeat.com/game/153294",
+        "playtime": "very long",
+        "certified": false,
+        "notes": "\n\n\nKai no kiseki is the direct sequel of kuro no kiseki 2 and language-wise most of the stuff will be the same. The gameplay has been updated to be more action/hybrid focused but overall the narrative style hasn't changed at all. If you have never played a kiseki game you should not be starting from this one, and if you have played the others and have come this far, chances are you know what you're getting yourself into.\n\n\n\nOne thing I will point out that is kinda cool is that this game offers some kind of real-time \"codex\" baked right into most conversations where you can just press a button and see a list of relevant topics you can read up on if you need a refresher.\n\n\n\nA point of annoyance that I have to point out is that the conversation backlog gets wiped after a conversation is over, so while there is  backlog feature, it is not entirely reliable at all times. I don't remember if this is how it was in other games but it's something to keep in mind.\n\n\n\nOverall, the difficulty hasn't changed, and I still consider this game/series to be very dense of words and relatively hard, but if you've come this far you should already know this.\n",
         "browsable": true
     },
     {

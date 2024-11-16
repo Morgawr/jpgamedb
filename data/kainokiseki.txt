@@ -1,0 +1,22 @@
+Title The Legend of Heroes: Kai no Kiseki - Farewell, O Zemuria
+Genre JRPG
+Difficulty Hard
+Furigana mostly no
+Japanese_Game Yes
+Pausable_Text some
+Voiced partial
+Backlog partial
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co8jaj.jpg
+Backloggd https://www.backloggd.com/games/the-legend-of-heroes-kai-no-kiseki-farewell-o-zemuria/
+Howlongtobeat https://howlongtobeat.com/game/153294
+Playtime Very Long
+
+## Notes
+
+Kai no kiseki is the direct sequel of kuro no kiseki 2 and language-wise most of the stuff will be the same. The gameplay has been updated to be more action/hybrid focused but overall the narrative style hasn't changed at all. If you have never played a kiseki game you should not be starting from this one, and if you have played the others and have come this far, chances are you know what you're getting yourself into.
+
+One thing I will point out that is kinda cool is that this game offers some kind of real-time "codex" baked right into most conversations where you can just press a button and see a list of relevant topics you can read up on if you need a refresher.
+
+A point of annoyance that I have to point out is that the conversation backlog gets wiped after a conversation is over, so while there is  backlog feature, it is not entirely reliable at all times. I don't remember if this is how it was in other games but it's something to keep in mind.
+
+Overall, the difficulty hasn't changed, and I still consider this game/series to be very dense of words and relatively hard, but if you've come this far you should already know this.

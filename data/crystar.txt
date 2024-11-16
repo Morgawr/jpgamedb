@@ -1,0 +1,21 @@
+Title Crystar
+Genre JRPG
+Difficulty Average
+Furigana Mostly no
+Japanese_Game Yes
+Pausable_Text Some
+Voiced full
+Image https://images.igdb.com/igdb/image/upload/t_cover_big/co1m92.jpg
+Backloggd https://www.backloggd.com/games/crystar/
+Howlongtobeat https://howlongtobeat.com/game/62343
+Playtime Average
+
+## Notes
+
+Crystar is the perfect example of a B-tier action JRPG. Gameplay-wise, it is a rather low-budget "jank-core" type of game. Most of the quality and attention in the game has gone to the story, introduction cinematic/opening, and voice acting. I have to admit I am not a fan of the gameplay which overstays its welcome and also was not particularly enjoyable. The game will have you go through many copy-pasted areas multiple times with HP-sponge enemies with a very clunky combat system.
+
+If you like playing games for the story, you might enjoy the story in this one, but be aware that most of your time will be spent mindlessly whacking at the same palette-swapped enemy type with relatively little variation.
+
+On top of that, there is a specific plot device that will have you go through multiple "endings" until you achieve the real ending, and that involves having to replay the same 2-3 chapters multiple times with some variation in dialogue. Gameplay-wise this was a bit of a slogfest to me, but language learning-wise it can be very useful to allow you to re-play parts you already experienced and possibly catch stuff you might have missed before.
+
+The language is average leaning towards the easier side. There are only a few instances of furigana mostly used as ateji, so you should not rely on it.
