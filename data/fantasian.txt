@@ -1,0 +1,22 @@
+Title Fantasian Neo Dimension
+Genre JRPG
+Difficulty average
+Furigana no
+Japanese_Game Yes
+Pausable_Text Some
+Voiced Main and side quest
+Backlog No
+Image https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co8d92.jpg
+Backloggd https://www.backloggd.com/games/fantasian-neo-dimension/
+Howlongtobeat https://howlongtobeat.com/game/152394
+Playtime Long
+
+## Notes
+
+Fantasian Neo Dimension is probably the closest JRPG to a spiritual successor of the "golden age" of Final Fantasy games (late SNES/PSX/early PS2). It has all the story and town/dungeon design qualities as those old school FF games. If you are an older Final Fantasy fan, you must play this game, it is amazing. My recommendation is to play the "Neo" version (not the original on Apple Arcade) as it has a "normal" (aka Easy) mode. The original was so hard to the point of being borderline unbeatable to a lot of players.
+
+Language-wise, the Japanese is not easy and some parts are relatively tricky with a bunch of sciency terminology, however the amazing thing is that almost the entirety of the game is voiced. All main story and side quests are fully voiced. Side quests are also marked on the map which makes it easier to not get lost. On top of that, there are some side stories and flashback scenes that are narrated in the style of a visual novel. These are also fully voiced, including the narration. It is a great way to get into the visual novel genre in audiobook-style narration.
+
+The writing style also makes use of a lot of kana and not as much kanji (there is still plenty though), so for people who struggle more with kanji and are better at listening to the language, this game would be a strong recommendation.
+
+In particular, I think this game is a great way to transition from "easy" games to the more "intermediate" stage of JRPGs.
